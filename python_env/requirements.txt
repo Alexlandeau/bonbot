@@ -1,0 +1,4 @@
+jupyterlab
+ipython
+ipykernel
+beautifulsoup4

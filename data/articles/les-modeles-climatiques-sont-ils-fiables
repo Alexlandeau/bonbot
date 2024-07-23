@@ -1,0 +1,204 @@
+Après avoir passé en revue
+les principales idées reçues sur le climat
+, il était temps de se pencher sur l’élément fédérateur de tous ces sujets : les modèles climatiques.
+Les modèles climatiques sont des outils de simulation importants pour améliorer notre compréhension du comportement du climat à l’échelle saisonnière, annuelle, décennale et centennale. Les modèles permettent de déterminer dans quelle mesure les changements climatiques observés peuvent être dus à la variabilité naturelle, à l’activité humaine ou à une combinaison des deux.
+Mais comment marche un modèle climatique ? Est-il vrai que certains ont besoin de supers ordinateurs de la taille d’un terrain de tennis ? Comment ces modèles ont-ils évolué et surtout, sont-ils fiables ? Pour y répondre, nous avons reçu l’aide de
+Marie-Alice Foujols
+, ingénieure de recherche CNRS qui a été responsable technique du pôle de modélisation du climat de l’IPSL
+jusqu’en 2018.
+Qu’est-ce qu’un modèle climatique ?
+Les modèles climatiques sont un sujet sous-jacent à l’ensemble des articles de notre
+série sur le climat
+. En effet, tous les sujets de recherche abordés ont un point commun : l’utilisation de modèles climatiques. Commençons tout d’abord par définir ce qu’est un modèle climatique.
+Le GIEC définit les modèles climatiques comme “
+des programmes informatiques extrêmement sophistiqués qui englobent notre compréhension du système climatique et simulent, avec autant de fidélité que possible, les interactions complexes entre l’
+atmosphère, l’océan, la surface terrestre, la neige et la glace
+, l’écosystème mondial et divers processus chimiques et biologiques
+“.
+Quelles sont les composantes prises en compte dans un modèle climatique ?
+L’équilibre énergétique de la Terre entre ces quatre composantes est clef pour toute projection climatique à long terme. Les principales composantes du système climatique traitées dans un modèle climatique sont les suivantes :
+La composante atmosphérique
+, qui simule les nuages et les aérosols, et joue un rôle important dans le déplacement de la chaleur et de l’eau autour du globe.
+La composante surface terrestre
+, qui simule les caractéristiques de surface telles que la végétation, la couverture neigeuse, l’eau du sol, les rivières et le stockage du carbone.
+La composante océanique
+, qui simule le mouvement et le mélange des courants, ainsi que la biogéochimie, puisque l’océan est le réservoir dominant de chaleur et de carbone dans le système climatique.
+La composante
+glace de mer
+, qui module l’absorption du rayonnement solaire et les échanges air-mer de chaleur et d’eau.
+Crédit : GIEC 2007 (AR4) FAQ 1.2 RE4 WG I
+Les résultats et projections des modèles climatiques fournissent des informations essentielles pour mieux éclairer les décisions d’importance nationale, régionale et locale, liées au climat, aux statistiques climatiques, telles que la gestion des ressources en eau, l’agriculture, les transports, la planification urbaine, etc. Qu’il s’agisse d’aider les scientifiques à mieux appréhender
+les climats du passé
+, ou de faire des projections pour ce siècle ou le suivant, les modèles sont un outil essentiel pour comprendre le climat de la Terre et le simuler.
+Plusieurs décennies d’innovation ont été nécessaires pour permettre cela, et avec autre chose qu’un pc portable…
+Évolution
+et puissance de calculs des modèles climatiques
+La complexité des modèles climatiques a considérablement augmenté depuis 1990 et le premier rapport d’évaluation du GIEC. En effet, d’autres représentations de processus physiques ont été ajoutées au fur et à mesure, comme la prise en compte des différents types de nuages, les interactions entre les surfaces terrestres, la représentation des cycles mondiaux du carbone et du soufre, etc.
+Nous observons dans la figure ci-dessous le développement des modèles climatiques au cours des 35 dernières années et comment les différentes composantes ont été couplées en modèles climatiques complets au fil du temps. Dans chaque aspect (par exemple, l’atmosphère, qui comprend un large éventail de processus atmosphériques), la complexité et l’éventail des processus ont augmenté au fil du temps (illustré par des cylindres croissants).
+Il convient de noter que, dans le même temps, la résolution horizontale et verticale a considérablement augmenté, par exemple, pour les modèles spectraux, de T21L9 (résolution horizontale d’environ 500 km et 9 niveaux verticaux) dans les années 1970 à T95L95 (résolution horizontale d’environ 100 km et 95 niveaux verticaux) à l’heure actuelle, et que, désormais, les ensembles comportant au moins trois expériences indépendantes peuvent être considérés comme standard.
+Source :
+https://www.ipcc.ch/site/assets/uploads/2018/02/Fig1-13-1024×904.jpg
+La figure ci-dessous montre, d’une façon plus imagée, comment au fil des décennies de plus en plus de processus climatiques ont été intégrés dans les modèles mondiaux, depuis le milieu des années 1970 jusqu’au quatrième rapport d’évaluation (“AR4”) du GIEC, publié en 2007 :
+Evolution des modèles climatiques, image de l’
+AR4 Fig 1.2
+La complexité du système climatique et de ses nombreuses interactions fait que la modélisation sur ordinateur est l’unique moyen de projeter dans le passé et même le futur
+. Nous demandions en introduction s’il fallait un ordinateur de la taille d’un terrain de tennis pour faire tourner un modèle climatique… Et bien c’est vrai !
+Y a-t-il vraiment des trillions de calculs à la seconde dans un modèle climatique ?
+Nous avions vu que
+la météorologie et climatologie avaient de nombreux points en commun
+. D’une certaine façon, un modèle climatique produit la même chose qu’un modèle météorologique, mais le résultat, au lieu de concerner les prochaines heures, concernera les décennies à venir. Dans le premier cas, l’état initial est d’une importance primordiale, dans le deuxième cas il ne faut omettre aucune des composantes du système climatique comme cela a été décrit plus haut.
+Les modèles décrivant les calculs à effectuer pour une simulation climatique sont composés de nombreux sous-programmes représentant en tout plusieurs centaines de milliers (voire millions) de lignes de code. Les couches superficielles du
+globe
+terrestre sont découpées en
+mailles
+(latitude, longitude, altitude ou profondeur).
+Le temps
+est lui-même décomposé en
+pas
+élémentaires, d’une durée de 15 à 30 minutes. Pour chaque point du maillage, pas de temps par pas de temps, ces programmes calculent l’évolution des différentes
+variables d’état
+(température, pression, etc.) de chacune des composantes du système climatique.
+Réaliser tous ces calculs dans un temps raisonnable réclame d’importantes ressources de calcul que l’on peut trouver dans des centres de calcul nationaux ou européens accessibles à la recherche académique (grâce à GENCI pour la France) ou dans des centres dédiés. C’est pour cette raison que les principaux centres de calcul météo dans le monde sont équipés des calculateurs les plus puissants. A titre d’illustration, les ressources calcul de Météo France viennent de quadrupler en 5 ans.
+Cette vidéo détaille ce qu’est un modèle de climat et l’importance des ressources calcul :
+
+Comment le modèle climatique fonctionne-t-il exactement ?
+Les calculateurs actuels, composés d’un grand nombre de processeurs (cœurs de calcul) travaillant en parallèle,
+permettent de simuler l’évolution du climat sur des périodes allant de quelques mois à plusieurs milliers d’années
+. En raison de la complexité du système climatique et des limites de la puissance de calcul, un modèle ne peut pas calculer tous ces processus pour chaque mètre cube du système climatique.
+Au lieu de cela, un modèle climatique divise la Terre
+en une série de boîtes ou “cellules de grille
+“. Un modèle global peut comporter des dizaines de couches sur la hauteur et la profondeur de l’atmosphère et des océans.
+Résolutions horizontales prises en compte dans les modèles à haute résolution actuels et dans les modèles à très haute résolution actuellement à l’essai : (a) Illustration de la topographie européenne à une résolution de 87,5 × 87,5 km ; (b) même chose que (a) mais pour une résolution de 30,0 × 30,0 km.
+Source : Fig. 1-14 AR5 GIEC/IPCC
+Les études climatiques nécessitent souvent de modéliser le climat sur de nombreuses années afin de comprendre les mécanismes physiques qui gouvernent sa variabilité et d’estimer ses propriétés statistiques. Ainsi,
+avec les moyens de calcul actuels, la réalisation d’une simulation de 2000 ans avec un maillage de l’ordre de 100 km prend quasiment une année entière (en utilisant simultanément plusieurs milliers de cœurs de calcul).
+Il faut donc nécessairement faire des choix
+entre différentes options, notamment
+en fonction des ressources informatiques disponibles
+. Le choix se fait en fonction du domaine d’intérêt (changement climatique, prévision saisonnière à décennale, étude de processus, simulations longues paléoclimatiques…).
+C’est un compromis nécessaire pour choisir le niveau de détail du climat simulé
+, nous y reviendrons.
+Les modèles sont-ils meilleurs aujourd’hui ?
+Comme ils prennent en compte de plus en plus d’éléments, il est légitime de considérer que les modèles climatiques d’aujourd’hui sont ‘meilleurs’ que les modèles climatiques des années 90. Les progrès de l’informatique ont également grandement aidé : la puissance de calcul est 1 million de fois supérieure (6 ordres de grandeur) à celle des années 90. Aujourd’hui, nous pouvons simuler 10 ans par jour, ce qui aurait été impossible il y a 30 ans avec les modèles plus récents.
+Le fait d’avoir beaucoup plus de données qu’auparavant est également un vrai plus
+.
+Le programme informatique prend en compte notre compréhension des phénomènes mais aussi les forçages extérieurs (taux de GES, ensoleillement, éruptions volcaniques, etc.). Les observations réalisées directement sur le terrain ou indirectement ont elles-mêmes permis notre compréhension des phénomènes.
+Par exemple, nous envoyons des satellites pour observer l’atmosphère, la couverture nuageuse, les précipitations, les océans ou les calottes polaires, des ballons bardés de capteurs pour analyser l’atmosphère, et au quotidien des milliers de flotteurs ARGO nous renseignent sur tout un tas de paramètres marins. Indirectement, toutes ces données nous renseignent sur le climat et nous permettent d’enrichir les modèles.
+Modéliser n’est pas si simple…
+Cependant, et comme toujours, c’est un peu plus compliqué que cela.  Le GIEC le précise dans son dernier rapport en 2014 :
+Chaque parcelle de complexité ajoutée, bien que destinée à améliorer un aspect du climat simulé, introduit également de nouvelles sources d’erreurs possibles (par exemple, via des paramètres incertains) et de nouvelles interactions entre les composants du modèle qui peuvent, ne serait-ce que temporairement, dégrader la simulation par un modèle d’autres aspects du système climatique.
+Modéliser la variabilité n’est pas une mince affaire : cette dernière résulte en effet aussi de forçages externes au système, qu’ils soient naturels (comme la variabilité solaire ou l’activité volcanique) ou anthropiques (liés à l’activité humaine).
+Notre
+article sur le forçage radiatif
+permet de se rendre compte de cela. Mais, dans la mesure où nous avons une meilleure compréhension de divers processus climatiques et une meilleure représentation de ces processus dans les modèles, nous pouvons considérer que ces derniers s’améliorent.
+Comment sait-on que les modèles climatiques sont pertinents ?
+Cette partie a pour objectif de répondre à
+deux critiques courantes
+de la part des climatosceptiques. Premièrement, les “
+modèles ne sont pas testés
+” et deuxièmement “
+ils se sont toujours trompés jusqu’à maintenant
+“. C’est faux dans les deux cas.
+“
+Les modèles climatiques ne sont pas testés
+“
+L’évaluation de la capacité des modèles à représenter les différentes caractéristiques du climat consiste à confronter les résultats d’une simulation aux différentes observations disponibles. Les méthodes utilisées vont de simples comparaisons de cartes de moyenne et de variabilité (température, pluies…) à des estimations plus sophistiquées de l’accord modèles-données, faisant appel à des méthodes statistiques complexes.
+Ces méthodes plus avancées permettent de donner une mesure objective, en tenant compte notamment des incertitudes à la fois sur les observations et sur les simulations, en particulier celles liées à un échantillonnage temporel limité. Chaque composante d’un modèle de climat (océan, atmosphère, glace de mer, végétation, etc.) est d’abord validée séparément avant d’être intégrée au système complet.
+Cette première étape permet de juger des performances intrinsèques de chaque élément. Le système complet, ou couplé, est ensuite évalué sur divers aspects.
+Quels sont les critères d’évaluation des modèles climatiques ?
+Les modèles climatiques sont évalués grâce à plusieurs critères d’évaluation, qui permettent de s’assurer de la pertinence ou non d’un modèle :
+Représentation du
+climat moyen
+(répartition des nuages, principaux vents, température, etc.)
+Capacité à reproduire les
+caractéristiques saisonnières du climat dans chaque région
+(simulation des moussons tropicales, de l’englacement de l’Arctique en hiver…)
+Capacité à simuler la
+variabilité interannuelle à décennale
+observée dans l’océan, l’atmosphère.
+Capacités des modèles à représenter les
+tendances récentes du climat
+observées (réchauffement global au XX
+e
+siècle de 0.74°C, hausse du niveau des mers de 17 cm)
+Les
+simulations paléoclimatiques
+sont également appelées à la rescousse pour vérifier que l’on peut avoir confiance dans la sensibilité des modèles pour reproduire un changement de climat important, tel qu’estimé à partir des enregistrements climatiques (carottes de glace, sédiment…) lorsque les forçages externes évoluent. Plusieurs périodes du passé sont ainsi scrutées.
+Les modèles climatiques sont-ils testés ?
+Après
+deux ans d’évaluation intensive par les équipes françaises
+, les modèles français (IPSL et CNRM-Cerfacs), comme les autres modèles internationaux ont été
+examinés de façon indépendante
+lors des deux dernières phases du projet international de comparaison de simulations de climat actuels, passés et futurs (CMIP5 en 2010-2012 et CMIP6 en 2017-2019*)
+par des équipes du monde entier
+qui analysent l’ensemble des simulations CMIP rendus disponibles par les différentes équipes. Chacune de ces études se focalise sur un aspect particulier du système climatique et permet de brosser une évaluation objective et multifacette de l’ensemble de ces modèles.
+Du fait de la complexité et de la diversité des processus physiques, dynamiques, chimiques et biologiques en jeu, des chercheurs et chercheuses d’horizons et d’expertises très variés contribuent à la modélisation du système climatique, une véritable œuvre collective.
+De manière générale, chaque modèle est testé, retesté… en incluant des simulations de la période récente, des simulations du climat passé (holocène ou dernier maximum glaciaire), des simulations idéalisées (augmentation de 1% par an de la concentration de CO
+2
+dans l’atmosphère, augmentation brutale d’un facteur 4 de la concentration de CO
+2
+dans l’atmosphère…) et des projections climatiques suivant plusieurs scénarios.
+Dire que les modèles ne sont pas testés est donc faux : leur robustesse repose notamment sur le fait qu’ils soient testés, validés et évalués pendant plusieurs années et par plusieurs équipes internationales.
+“Les modèles climatiques se sont-ils toujours trompés jusqu’à maintenant” ?
+Deuxième argument des climatosceptiques, “les modèles se sont toujours trompés”. C’est encore une fois faux.
+Ci-dessous sont représentées les projections de température globale faites en 2000 pour la période 2000-2020 avec les versions de modèle climat de l’époque, (synthétisés dans le cadre de la phase 3 du projet CMIP, fait en préparation au quatrième rapport du GIEC).
+Clairement, les prévisions faites il y a 20 ans sont en accord avec ce qui a été de fait observé.  Et encore, nous avons vu qu’avec l’amélioration des moyens techniques, les modèles se sont encore améliorés en 20 ans et ont donc augmenté leur précision… il n’y a malheureusement pas plus aveugle qu’une personne qui ne souhaite pas voir.
+Estimation moyenne simulée en noir, possibles climatiques en gris, obs en couleurs
+source : https://www.realclimate.org/index.php/climate-model-projections-compared-to-observations/
+Plus largement, dans
+un article présentant les modèles climatiques publiés depuis 1973
+, nous y apprenons que les scientifiques ont généralement été assez précis dans la prévision du réchauffement futur, futur de l’époque. Ils présentent tous des résultats raisonnablement proches de ce qui s’est réellement produit, en particulier lorsque les écarts entre les concentrations de CO
+2
+prévues et réelles et les autres forçages climatiques sont pris en compte.
+Différents modèles, différents résultats… existe-t-il un modèle climatique meilleur que les autres ?
+On reproche souvent également aux modèles d’avoir des résultats différents, qu’il y a “une variabilité entre +1°C et +5°C entre les modèles”, et que ce serait la preuve qu’ils ne sont pas fiables. Encore une fois, c’est faux. Aux différents modèles ayant un comportement similaire quant au réchauffement, s’ajoutent les différences de scenarios.
+En effet, les résultats dépendent des émissions de gaz à effet de serre que nous (humains) allons émettre dans les prochaines décennies. Les scénarios [gros raccourci] permettent de traduire à quel point la température va monter si nous augmentons la concentration en gaz à effet de serre de ‘tant de ppm’.
+Dit plus simplement, plus on remplit la baignoire (de GES), plus ça chauffe. Nous avons donc plusieurs scenarios : le RCP2.6 (augmentation du forçage radiatif de +2.6 W/m²) pour le scénario le plus ambitieux, RCP4.5, RCP6.0 et enfin RCP8.5 scenario du laisser-faire :
+Source :
+https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full_fr.pdf
+Les scientifiques nous disent ce qu’il pourrait se passer si nous augmentons nos émissions de gaz à effet de serre et à ce titre émettent des hypothèses. C’est leur travail. Prendre des décisions et des mesures appropriées appartient aux politiques.
+Un modèle climatique meilleur qu’un autre ?
+Rapport après rapport, le
+GIEC donne des précisions concernant les modèles climatiques
+, la façon dont ils sont évalués, et leur pertinence. Les rapports précédents ont généralement fourni un aperçu assez large de la performance des modèles, montrant les différences entre les versions calculées par les modèles de diverses quantités climatiques et les estimations observationnelles correspondantes.
+Inévitablement, certains modèles sont plus performants que d’autres pour certaines variables climatiques. Mais
+aucun modèle n’apparaît clairement comme ” le meilleur “
+.
+Incertitudes et limites
+Malgré les progrès réalisés, une incertitude scientifique concernant les détails de plusieurs processus demeure. Les modèles climatiques ont en général beaucoup de difficulté à représenter de façon satisfaisante certains types de nuages dans l’atmosphère, et
+en particulier les nuages bas qui ont une extension verticale faible
+.
+Or, il est bien établi maintenant que les incertitudes sur l’évolution du climat au XXI
+e
+siècle sont principalement liées à la représentation même de tous les processus nuageux et que l’effort doit être porté, entre autres, sur ce sujet. S’il y a des différences dans les modèles, c’est qu’il y a des progrès à faire dans la modélisation de certains processus : il faut notamment plus de mesures, plus d’observations. Le plus important à retenir c’est que ces incertitudes sont connues, estimées, et que la recherche scientifique vise à les réduire.
+A titre d’exemple sur cette figure sont montrés les différents niveaux de réchauffement (le plus bas, le plus haut et la moyenne de tous les modèles) selon 4 scenarios pour les résultats des simulations des phases 5 et 6 du projet CMIP, simulations faites à 7 ans d’intervalle par plusieurs groupes internationaux.
+Réchauffement CMIP5 et CMIP6 entre 1880-1900 et 2090-2100 pour les scénarios RCP et leurs nouveaux analogues. La fourchette reflète le réchauffement le plus faible et le plus élevé parmi les modèles pour chaque scénario, tandis que les points marqués indiquent la moyenne multi-modèles.
+Graphique réalisé par CarbonBrief en utilisant Highcharts
+.
+La communauté française et internationale a beaucoup œuvré ces dernières années pour améliorer la représentation des différents types de nuages. De nouvelles techniques de validation utilisant les données satellites, essentielles aux études climatiques, ont été proposées afin d’échantillonner les caractéristiques des différents types de nuages simulés dans un modèle de manière correcte.
+Modèles climatiques de demain : quelles perspectives d’amélioration ?
+Avant de conclure, une bonne nouvelle : il existe plusieurs axes d’amélioration possibles pour les modèles climatiques.
+Premièrement, la simulation s’est professionnalisée : l’expérience des chercheurs, couplée avec une puissance de calcul qui a été augmentée par plus d’un million en 30 ans, a permis que les modèles climatiques les plus récents soient meilleurs que leurs prédécesseurs. C’est ainsi que fonctionne la recherche : elle capitalise sur l’existant, et cherche à l’améliorer.
+Des discussions sont en cours pour savoir comment faire tourner les modèles climatiques sur des super-ordinateurs de toute nouvelle génération (massivement parallèle, à base de cœurs de calcul sobres et très performants) tels que ceux prévus dans le projet EuroHPC.
+L’accroissement futur des moyens de calcul permettra, à condition que les indispensables modifications soient faites dans nos codes,
+soit d’effectuer ces simulations plus rapidement, soit de prendre en compte plus précisément certains phénomènes physiques ou d’en introduire de nouveaux
+(évolution de la calotte glaciaire, hauteur des vagues, etc.), soit d’affiner le maillage (typiquement 20 km au lieu de 100 km actuellement), soit de mieux estimer l’enveloppedes résultats en multipliant les simulations effectuées.
+Les chercheuses et chercheurs qui travaillent sur les modèles climatiques travaillent également à améliorer un point très important : la sobriété des calculs faits par les modèles. En effet, la consommation énergétique de ces supers ordinateurs n’est pas neutre, et dans un objectif de neutralité carbone, ce sujet ne doit pas être éludé. Pour rappel, cette
+empreinte carbone fait partie des services publics, et est donc imputée à tous les français(e)s
+. Si vous souhaitez en savoir plus, vous pouvez regarder ce que fait
+Labos 1point5
+, un collectif de membres du monde académique avec un objectif commun : mieux comprendre et réduire l’impact des activités de recherche scientifique sur l’environnement, en particulier sur le climat.
+Le mot de la fin
+Les modèles climatiques sont des outils de simulation importants pour améliorer notre compréhension du comportement du climat à l’échelle saisonnière, annuelle, décennale et centennale. Ils permettent de déterminer dans quelle mesure les changements climatiques observés peuvent être dus à la variabilité naturelle, à l’activité humaine ou à une combinaison des deux.
+Ils sont définis comme “
+des programmes informatiques extrêmement sophistiqués qui englobent notre compréhension du système climatique et simulent, avec autant de fidélité que possible, les interactions complexes entre l’atmosphère, l’océan, la surface terrestre, la neige et la glace, l’écosystème mondial et divers processus chimiques et biologiques
+“.
+Les modèles d’aujourd’hui reflètent une meilleure compréhension du fonctionnement des processus climatiques – une compréhension qui a suivi des recherches et des analyses continues, ainsi que des observations nouvelles et améliorées.
+Crédit vignette :
+© Animea, F. Durillon pour le LSCE / CEA / IPSL
+
+
+
+Thomas Wagner
+
+
