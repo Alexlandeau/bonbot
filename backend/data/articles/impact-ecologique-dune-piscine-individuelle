@@ -1,0 +1,96 @@
+Je ne pensais pas qu’il était nécessaire de faire un article sur la piscine individuelle. C’était avant de regarder les chiffres : je ne me rendais pas du tout compte de l’ordre de grandeur.
+En effet, avec
+3 millions de piscines privées
+(et plus d’un million dans le Sud-Est), la France est le deuxième pays le plus équipé au monde, derrière les Etats-Unis. Le marché est en plein boom et n’a pas vraiment souffert de la Covid : le leader mondial de la piscine enterrée Desjoyaux enregistre par exemple une croissance soutenue depuis plus de 5 ans, avec un chiffre d’affaires historique à 115m d’euros pour l’année 2020.
+Selon la Fédération des Professionnels de la Piscine et du Spa (FPP), le nombre de piscines construites, déjà en croissance de +6% en 2019, devrait atteindre les +6,3% en 2020, soit près de 175.000 piscines supplémentaires, dont 58.000 piscines enterrées. Le marché est équitablement réparti entre les piscines enterrées et les piscines hors-sol.
+Pourquoi et comment calculer l’impact écologique d’une piscine individuelle
+Avec des étés de plus en plus chauds, la piscine individuelle va devenir un bien de luxe de plus en plus convoité. Il est toujours plus agréable de faire trempette quand il fait 40°C dehors… plutôt que d’être dans un appartement parisien non climatisé.
+Mais lorsque l’on est responsable, on
+doit
+se demander quel impact a chacune de nos actions
+. C’est dans cette démarche que cet article s’inscrit : quelle est l’empreinte carbone d’une piscine individuelle ? Pour quelle taille ? Chauffée ou non ? Quel poids a l’eau dans cette empreinte ?
+Pour l’occasion, un simulateur a été construit afin d’estimer l’empreinte carbone de votre piscine individuelle. Bien sûr, si vous vous demandez ce qu’est une empreinte carbone et pourquoi vous devriez connaître la vôtre, je vous invite à lire
+cet article dédié
+.
+NB : le simulateur est open source, les données sont publiques afin de pouvoir profiter des
+différents retours et d’améliorer le simulateur
+.
+Quels critères prendre en compte ?
+Voici les critères à prendre en compte lorsque vous construisez une piscine individuelle (enterrée), puis pour l’entretenir :
+Surface
+: c’est le paramètre le plus structurant. Une limite ici, on fixe le volume avec une profondeur de 1.5m.
+Chauffage
+: chauffez-vous votre piscine ? Si oui, comment ? Pompe à chaleur ou gaz ?
+Temps d’utilisation
+: combien de mois par an utilisez-vous votre piscine ?
+Pompe filtrante
+: intégrée par défaut à toutes les piscines
+De façon volontaire, le prix est laissé de côté dans cet article. Mais après une
+recherche rapide
+, en 2017, il fallait compter 22.000 euros, et deux ans plus tard, «seulement» 18.000 euros. Alors que ce marché était encore anecdotique au début des années 2000, logique, le nombre des piscines hors-sol de plus de 10 mètres carrés est aujourd’hui équivalent à celui des piscines enterrées. Et leur prix est bien moindre: une piscine hors-sol excède rarement les 15.000 euros, quand il faut compter de 15.000 à 45.000 euros, voire plus, pour une piscine enterrée (terrassement et installation compris).
+Le simulateur de l’empreinte carbone d’une piscine individuelle
+C’est parti pour connaître l’empreinte carbone !
+
+
+NB : Il existe plusieurs
+
+limites au calcul :
+Les chiffres donnés par
+la Fédération des Professionnels de la Piscine et du spa
+
+ne sont pas transparents : impossible de trouver un rapport détaillé
+. De plus les chiffres viennent de
+cabinets externes
+.
+Notre estimation de l’empreinte de construction est basée sur le bilan d’un chantier d’une piscine de type béton de 32m². Nous extrapolons la valeur selon la taille de votre piscine. Bien sûr, vous ne construirez votre piscine qu’une fois, donc le poids de l’empreinte carbone de la construction dépend de l’amortissement (nombre d’années d’usage, fixé ici à 30 ans par convention).
+Il existe
+d’autres types de piscines
+, beaucoup plus rares, donc non prises en compte
+les conditions météorologiques peuvent avoir un impact conséquent sur l’évaporation, et donc sur le cycle de vie. C’est ce qu’indique une
+étude américaine
+(merci à @
+ThomasGibon
+pour la précision)
+Vous devriez également prendre en compte certains éléments qui ne sont pas inclus dans le simulateur. Cela peut aller de 100 à 200kg CO
+2
+eq au total :
+Barrière de protection
+Alarme, bâche de sécurité
+Abri recouvrant intégralement le bassin
+La mise place d’éclairage (LED ou non)
+Produits d’entretiens
+Le type d’eau : réseau ? Récupérée autrement ?
+Construire une piscine n’a pas qu’un impact carbone
+S’il était nécessaire de le rappeler, construire une piscine n’est pas anodin. Il est indispensable de garder en tête certains aspects avant d’en faire construire une, ou de vouloir s’en servir à outrance :
+La piscine individuelle est un privilège qui ne profite qu’à quelques-uns et est une injustice en période de pandémie (les piscines publiques sont fermées). Donc si vous en avez une, partagez-là, plutôt que vos amis en construisent une nouvelle !
+L’artificialisation des sols et destruction des sols en creusant dans la terre : nous avons un devoir de protection des milieux naturels, de réduction des îlots de chaleur et de végétalisation pour limiter l’imperméabilisation des sols (bétonisation) et réduire les risques d’inondations.
+La consommation importante d’eau alors que les
+sécheresses
+s’intensifient et que nous devons tous et toutes être très vigilant(e)s face à notre consommation d’eau (nous sommes déjà en période de
+sécheresse
+avant même que l’été soit là). D’ailleurs, certains demandaient leur fermeture lors du grand débat national, en
+interdisant la construction et le remplissage d’eau
+des piscines privées.
+La piscine individuelle étant plutôt réservée aux ménages aisés, votre empreinte carbone est certainement bien au-dessus de ce qu’il faut pour que nous respections nos engagements climatiques. J’ai rarement vu une personne avec une empreinte carbone très faible (
+en dessous de 3tCO2eq
+) ayant une piscine individuelle…
+Si vous êtes piscinier, ces considérations écologiques sont évidemment à prendre en compte.
+Le rôle du piscinier est essentiel
+dès les premiers contacts avec le porteur d’un projet de piscine. Implantation du bassin, dimensionnement et volume d’eau à traiter, protection de la piscine et sécurisation des enfants, choix des équipements de traitement et de confort : autant de conseils qui vont aider le client à s’orienter vers des matériels moins consommateurs et moins émetteurs. Simple rappel : savoir dire non est également un droit. Tout le monde devra faire sa part.
+Le mot de la fin
+Si nous devions encore le rappeler, le réchauffement climatique amènera une augmentation de pratiques peu vertueuses au regard de la préservation des ressources naturelles, telles que le développement des piscines et de la climatisation (socialement injuste, comme le rappelle
+cette étude
+).  C’est ce qu’indique la
+Stratégie nationale d’adaptation au changement climatique
+. Attention à ces mauvaises solutions qui finiront par empirer le problème (
+un peu comme climatiser des stades pour un Mondial de football au Qatar
+…).
+Les maires auront un rôle très important dans le développement ou la stagnation de marché un peu trop porteur. Dans une optique de Zéro Artificialisation Nette (ZAN) prévue par la loi française, refuser de donner son accord pour la construction de piscines privées sera tout sauf anodin. En outre, puisque nous ne pourrons pas tous finir dans une piscine en 2050, il serait peut-être plus sage d’atténuer le réchauffement. Concluons ici avec les mots de Magali Reghazza, membre du Haut Conseil pour le Climat : “
+Il est donc nécessaire d’accélérer les efforts d’atténuation
+, en corrigeant leurs effets possiblement négatifs, tout en préparant les sociétés à faire face aux chocs à venir. L’adaptation n’est pas qu’un effort demandé aux individus et aux territoires : c’est un ensemble de politiques publiques qui s’inscrivent dans les actions de réduction de la vulnérabilité”.
+
+
+
+Thomas Wagner
+
+

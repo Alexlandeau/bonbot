@@ -1,0 +1,110 @@
+La comptabilité carbone est un enjeu crucial pour les entreprises, qui ont toutes pour objectif de baisser leurs émissions afin de contribuer à la
+neutralité carbone
+, que ce soit à l’échelle nationale ou
+mondiale
+. En effectuant des recherches sur le sujet, je suis tombé sur l’excellent
+blog de Guillaume Colin
+, acteur de la décarbonisation des sociétés chez
+Sami
+et auteur de cet article. L’objectif est triple : définir la comptabilité carbone, comprendre sa nécessité et comme toute comptabilité, ses limites.
+Comptabilité carbone des entreprises : introduction
+Les différents standards reconnus de comptabilité carbone des entreprises (GHG Protocol, ISO 14064, Bilan Carbone(r), etc.) définissent des règles et conventions de comptabilité des émissions de Gaz à Effet de Serre (GES) des entreprises.
+Ces règles sont arbitraires (comme celles de la comptabilité financière) et permettent de définir un cadre partagé et de parler en théorie le même langage carbone. Ces standards sont globalement tous en phase sur la manière générale de compter les émissions d’une entreprise (les différences entre standards portent généralement sur des points secondaires).
+Parmi les principales caractéristiques communes à ces standards, les émissions sont généralement décomposées par
+scope
+ou périmètre :
+scope
+1 pour les émissions dites directes d’une entreprise (sources fixes et mobiles opérées par l’entreprise -chaudières, véhicules opérés, fuites de fluides frigorigènes, etc.),
+scope
+2 (électricité, vapeur, etc.) et 3 pour les émissions dites indirectes d’une entreprise (achats de biens et services, immobilisations, fret, déplacements, utilisation des produits vendus, etc.).
+Cette décomposition par
+scope
+et par catégorie au-sein de chaque
+scope
+est maintenant relativement bien connue par un nombre croissant d’entreprises.
+Source de la figure :
+ADEME
+Que mesure la comptabilité carbone d’une entreprise?
+
+Bonnes et mauvaises interprétations
+Ce qui est en revanche souvent moins bien compris par les entreprises (et pas que!) est la
+bonne façon d’interpréter les émissions telles que calculées par les standards
+.
+Savoir ce que mesure la comptabilité carbone des entreprises est une question qui peut sembler anodine mais qui est en fait instructive et loin d’être triviale. Plusieurs caractéristiques permettent de nous éclairer.
+Première caractéristique clé : la comptabilité carbone des entreprises n’est pas conséquentialiste ou marginaliste
+Elle ne cherche pas à mesurer ce que seraient les émissions avec ou sans l’entreprise dont on évalue les émissions (à ce stade, il ne s’agit pas de dire qu’une mesure conséquentialiste serait faisable, mais de prendre acte du fait que la comptabilité actuelle ne l’est pas).
+En effet, il n’y a
+pas de raisonnement contrefactuel dans la comptabilité carbone des entreprises
+(du type “que se serait-il passé en l’absence de l’entreprise?”), il s’agit davantage d’une approche dite
+attributionnelle
+.
+Ainsi, lorsque l’on compte les émissions d’une entreprise,
+on ne s’interroge pas sur l’utilité finale du produit vendu par l’entreprise
+: que ce produit soit vendu en addition (
+empilement
+) ou remplacement (
+substitution
+) d’un produit précédent (plus ou moins carboné que le produit vendu), les émissions seront comptées de la même manière.
+La variation d’émissions réelles induite par l’activité d’une entreprise sera donc par construction différente des émissions comptabilisées par l’entreprise.
+Ce caractère non-conséquentialiste étant rappelé, on peut en déduire qu’il est probablement
+impropre de dire que la comptabilité carbone des entreprises mesure les émissions “générées” par l’entreprise, ou “l’impact carbone” d’une entreprise, ou encore ses émissions “induites”.
+En effet, tous ces termes mis entre guillemets ont un sens conséquentialiste (Larousse pourra le confirmer) qui n’est pas en phase avec la manière dont les émissions d’une entreprise sont comptabilisées.
+Seconde caractéristique clé : la comptabilité carbone des entreprises est en première approximation indépendante de la valeur ajoutée apportée par l’entreprise
+C’est bien parce que les émissions d’un produit ne sont pas réparties par entreprise (par exemple en fonction de leur valeur ajoutée) qu’il y a de multiples recouvrements d’émissions entre entreprises -une même quantité de CO2 est comptée bien plus qu’une fois.
+Prenons l’exemple de la chaîne de valeur de l’industrie automobile et considérons une entreprise A qui réalise la fabrication et l’assemblage d’une voiture, une entreprise B qui achète les voitures et leur donne un simple coup de peinture final avant de les revendre (elle ne fait que ça), et une entreprise C qui achète puis revend la voiture sans rien faire physiquement (rien que de la mise en relation, une sorte de concessionnaire).
+Ces trois entreprises A, B et C comptabiliseront toutes le même volume d’émissions relatif à la voiture vendue, à savoir l’ensemble des émissions sur le cycle de vie de la voiture : il y a donc un multiple-compte des émissions d’un produit donné (comptées à peu près autant de fois qu’il y a de parties prenantes dans la chaîne de valeur).
+Ce constat signifie que la comptabilité carbone des entreprises
+ne mesure donc pas la juste contribution (au sens de Shapley par exemple) au changement climatique d’une entreprise
+.
+Soit dit en passant, il semble ainsi très compliqué de trouver un volume d’émissions pertinent auquel
+contribuer
+pour une entreprise, sur la base de sa comptabilité carbone telle qu’actuellement pratiquée.
+Ce qui pourrait avoir du sens au moins théoriquement (en faisant abstraction des autres limites liées à la compensation carbone) serait d’acheter un volume de crédits carbone égal à la contribution carbone d’une entreprise.
+Or on vient de le dire, la comptabilité carbone actuelle ne mesure absolument pas cela.
+Un bilan carbone permet-il de mesurer la dépendance au carbone d’une entreprise ?
+Comme il n’y a pas de partage des émissions d’un produit sur son cycle de vie entre entreprises actrices de la chaîne de valeur, certains suggèrent que les émissions d’une entreprise représentent sa
+dépendance au carbone
+.
+Cette interprétation est certainement moins mauvaise que les précédentes, mais est-elle pour autant complètement satisfaisante?
+A priori la dépendance au carbone devrait s’entendre comme une dérivée, une élasticité (la variation de l’activité de l’entreprise en fonction d’une contrainte carbone, ce qui est la définition du risque de transition) : les émissions d’une entreprise, exprimées en valeur absolue, ne devraient pas pouvoir nous renseigner directement sur cette dépendance.
+En outre, le terme “dépendance” est équivoque et peut être compris de plusieurs manières : dépendance à une contrainte physique sur le carbone (e.g réglementation), dépendance ou sensibilité à une contrainte financière sur le carbone (e.g prix du carbone -taxe ou marché), etc.
+Dépendance physique au carbone ?
+Si l’on considère la première acception,
+comme déjà évoqué
+, les standards ne
+captent qu’une partie des liens de dépendance physique, en raison des nombreuses clés d’allocation utilisées dans la comptabilité carbone
+: par exemple, les émissions d’un produit transporté par porte-conteneur seront obtenues en divisant les émissions du porte-conteneur par le poids total des produits transportés. Logique, direz-vous.
+Certes, mais pourtant ce produit dépend bien physiquement de la consommation totale de carburant, et donc des émissions totales du porte-conteneur, sans lesquelles ce porte-conteneur ne se serait pas déplacé (l’allocation des émissions entre produits est un simple jeu comptable de partage du fardeau entre produits, davantage dans une logique de contribution carbone que dépendance physique au carbone).
+Ce type d’allocation est présent à de multiples reprises et induit systématiquement une perte d’information sur le lien de dépendance physique.
+Dépendance financière au carbone ?
+Enfin, si l’on considère la seconde acception, la sensibilité à un prix du carbone est mal évaluée avec les règles de comptabilité actuelles (sous-évaluée plus exactement) notamment en raison de la comptabilité des émissions de l’électricité.
+En effet, un mix électrique peut être décarboné mais rester très sensible au prix du carbone, du fait de la construction des prix de l’électricité sur le marché de gros (marginalité des modes de production fossile) :
+c’est exactement le cas du mix électrique français.
+Le mix électrique français est en effet décarboné, et donc en calculant les émissions liées à l’électricité d’une entreprise sur la base de l’intensité carbone moyenne du mix électrique, on pourrait en déduire qu’elle est faiblement dépendante au carbone, ou dit autrement qu’une hausse du prix des quotas carbone (sur le marché EU-ETS) ne l’affecterait que peu.
+C’est une grosse erreur, car les centrales de production fossiles restent déterminantes pour la stabilité du réseau électrique européen et français, ce qui explique la sensibilité des prix de l’électricité au prix du carbone sur un marché de gros libéralisé.
+Troisième caractéristique : la comptabilité carbone ne mesure que les émissions des produits vendus, et pas celles des services vendus (hors financiers)
+De manière assez étonnante alors que nos économies sont de plus en plus tertiarisées, la comptabilité carbone considère qu’il n’y a pas d’émissions associées aux services vendus (il n’y a en tout cas pas de règle claire à ce sujet dans les standards).
+Ainsi, une entreprise qui vend de la publicité, du conseil, des services numériques, ou n’importe quel service (i.e autre chose que la vente de la propriété d’un produit), comptabilisera … 0 émission au titre de ces activités de service.
+Comme si ces services vendus ne servaient finalement à rien, ce qui est un comble dans une société capitaliste!
+Heureusement, il semblerait qu’il soit relativement aisé de
+compléter les standards de sorte à comptabiliser les émissions des services vendus
+. Les entreprises de service n’ont qu’à bien se tenir!
+Quelles conclusions peut-on tirer de cette analyse théorique de la comptabilité carbone ?
+La mesure des émissions d’une entreprise (ou comptabilité carbone) est généralement présentée comme le premier maillon de l’action climatique à trois têtes d’une entreprise :
+mesurer-réduire-contribuer
+(ou compenser,
+si l’on s’autorise à employer ce terme
+). L’importance du calcul d’empreinte carbone d’une entreprise est également souvent rappelée à travers la maxime suivante : “compter pour savoir, savoir pour agir, agir pour réduire.”
+Or, comme nous l’avons vu plus haut, la comptabilité carbone des entreprises n’est pas conséquentialiste et ne mesure donc pas la variation d’émissions mondiales induites par l’activité de l’entreprise. Dès lors, réduire les émissions scope 1 à 3 d’une entreprise telles qu’elles ont été calculées par les standards n’est a priori (et par construction des règles de comptabilité, donc de façon non surprenante) pas nécessairement bénéfique pour le climat.
+Cette affirmation peut paraître détonante mais n’est pourtant qu’une simple déduction de l’analyse faite du sens de la comptabilité carbone des entreprises.
+Quelques exemples pour illustrer ce propos
+?
+Une entreprise qui vend des vélos, des voitures électriques, des pompes à chaleur, des isolants, de l’électricité renouvelable ou nucléaire, des vêtements bas-carbone ou, généralisons, n’importe quel équipement bas-carbone (ou même moins carboné que les équipements actuellement déployés) devrait-elle chercher à réduire ses émissions (scopes 1 à 3)? C’est bien l’augmentation de l’activité (et donc à l’efficacité carbone près des émissions) de telles entreprises de l’économie verte qui permettra à nos sociétés de se décarboner.
+A cet égard, il serait je pense bienvenu pour la lutte contre le changement climatique d’un peu recentrer les critiques (et propositions) théoriques sur les deux premières pattes du triptyque “mesurer-réduire-contribuer”. En particulier, le principal standard de la réduction des émissions (l’initiative Science-Based Targets ou SBT) n’est dans les conditions actuelles pas à même de garantir une transition ordonnée -et donc réussie,
+étant donné notamment la perte d’efficacité économique qu’il induit.
+
+
+
+Thomas Wagner
+
+

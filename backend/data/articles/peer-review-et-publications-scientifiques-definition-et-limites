@@ -1,0 +1,158 @@
+L’usine qu’est le peer-review aujourd’hui n’a pas toujours été ainsi. Il fut un temps où l’on consultait des publications scientifiques en version imprimées (souvent dans des tomes assez épais) dans des bibliothèques universitaires, et on copiait les articles intéressants pour les étudier plus en détail- ce qui limitait leur diffusion. La mise en ligne de ces revues et la digitalisation des articles scientifiques ont grandement simplifié la vie des étudiants et des chercheurs mais ont aussi popularisé leur accès. Beaucoup d’articles sont certes payants mais peuvent être obtenus facilement via différentes plateformes voire même via un simple email à l’un des auteurs.
+Les publications scientifiques sont maintenant utilisées, parfois comme argument d’autorité, pour étayer des débats houleux dans des groupes de discussion entre amateurs éclairés sur les réseaux sociaux. On peut évidemment se réjouir que la production de la recherche scientifique trouve une audience plus large, mais il est également nécessaire d’avoir quelques clés de lecture pour comprendre le processus de publication.
+Cet article vise ainsi à donner quelques éléments de contexte sur le fonctionnement de ce rouage essentiel de la recherche scientifique, en détaillant les grandes étapes de la publication d’un article et en proposant des conseils de lecture pour mettre en contexte leur contenu.
+Le peer-review ce principe fondamental de la recherche moderne
+Je voyais récemment une personne assez médiatique mettre en doute les résultats d’une étude mise en ligne avant sa publication dans une revue au motif que c’était un preprint (prépublication) qui n’était donc pas passé par le filtre du peer-review. Cela traduit une mauvaise compréhension de ce processus.
+Tout d’abord, l’évaluation par les pairs (j’utiliserai peer-review par la suite) n’est pas réservée au domaine de la recherche, mais est devenue un constituant essentiel à toutes les étapes de la vie d’un chercheur : thèse, recrutement, demande de financement de projets de recherche, publications, etc.
+Source :
+https://authorservices.wiley.com/Reviewers/journal-reviewers/what-is-peer-review/the-peer-review-process.html
+La préparation d’un article
+En pratique, un manuscrit est préparé par une ou plusieurs personnes pour décrire des résultats jugés suffisamment nouveaux ou intéressants pour être partagés avec la communauté scientifique. Après validation par tous les auteurs (en théorie tous les co-auteurs ont lu et commenté l’article- on peut se poser des questions pour des gens signant des centaines de papiers par an…), l’article est soumis pour publication à une revue scientifique choisie sur différents critères tels que le facteur d’impact, le domaine couvert par la revue, mais aussi le copyright (certains instituts n’acceptent pas les termes imposés par certaines revues), ou la politique open-data.
+Source :
+http://phdcomics.com/comics/archive_print.php?comicid=2016
+Peer-review, prestige et facteur d’impact
+Dans un monde où l’on adore évaluer et donner des notes, les revues scientifiques ne font pas exception. Le facteur d’impact (Impact factor) est le critère le plus utilisé. Il est calculé comme
+le rapport entre le nombre de citations des articles publiés sur l’année et le nombre d’articles publiés les deux années précédentes
+.
+Nature
+a un impact factor de 42 en 2019, ce qui signifie qu’en moyenne un article publié en 2017 ou 2018 a été cité 42 fois en 2019. Si ce critère permet un classement facile, il est loin d’être parfait. Parmi les critiques récurrentes (https://www.cairn.info/revue-recherche-en-soins-infirmiers-2010-1-page-149.htm):
+Le nombre de citations ne mesure pas réellement la qualité de la publication
+Le facteur d’impact peut être artificiellement augmenté par une politique éditoriale adéquate
+Le rythme de publication diffère très largement d’un domaine à l’autre ce qui biaise les comparaisons
+Le facteur d’impact ne doit pas être confondu avec le
+H-index
+(Hirsch index) qui lui est utilisé pour évaluer l’impact des chercheurs en comptabilisant le nombre de citations reçues par leurs articles. Un chercheur ayant un H-index de 42 a publié 42 articles qui ont été cité 42 fois ou plus. Un chercheur ayant publié 1 article cité 150 fois aura un H-index de 1.
+Source : https://iopscience.iop.org/page/impactfactors
+Peer-review : modèle économique et revues ‘prédatrices’
+Faisons un petit aparté pour parler modèle économique,
+
+sujet qui défraie régulièrement la chronique. Quelques chiffres d’abord. Cinq éditeurs (Elsevier, Springer Nature, Wiley, Taylor & Francis and the American Chemical Society (ACS)) représentent environ
+50% des 2.5 millions d’articles
+publiés chaque année-
+un chiffre en forte augmentation
+. Le chiffre d’affaires de l’industrie de l’édition scientifique est de plus de
+20 milliards d’euros
+par an. En terme de profit, Elsevier fait typiquement mieux qu’Apple avec une marge de
+37%
+.
+Quiconque a essayé d’accéder à une publication scientifique s’est sans doute confronté à un article accessible seulement contre paiement ou souscription. En effet les universités et instituts de recherche paient des souscriptions pour permettre à leurs chercheurs d’accéder aux articles. On estime que cela représente environ
+380 millions d’euros
+par an pour les universités. Mais publier n’est pas non plus gratuit.
+Money money money…
+Beaucoup de revues appliquent des frais de publication soit avec une somme forfaitaire soit au nombre de pages. Une double punition qui restreint l’accès à la production scientifique (ces frais sont très élevés pour des pays en développement) qui est bien souvent financée par de l’argent public. Beaucoup de pays sont entrés en négociation avec les revues pour obtenir des accès ouverts (open access) aux articles publiés par leurs chercheurs. Un cas emblématique est l’Université de Californie (Berkeley, San Diego, Los Angeles…) qui a rompu son
+contrat avec Elsevier
+faute d’accord satisfaisant. A noter que beaucoup de revues proposent l’option Open-access lors de la publication mais celle-ci reste très chère-
+9500
+pour
+Nature
+…
+Enfin, un mot sur les revues prédatrices dont on a beaucoup entendu parler en 2020 à la suite de la publication d’un article sur l’hydroxychloroquine comme traitement contre la Covid-19- article qui avait été refusé par différentes revues.
+Une revue prédatrice est une revue qui accepte tout contenu sans réelle évaluation contre des frais de publication, et qui souvent démarche les chercheurs par mail pour les inciter à publier. Ce mécanisme fut magnifiquement mis à jour lorsqu’une équipe de chercheurs a publié dans le même journal un
+article
+intitulé « SARS-CoV-2 was Unexpectedly Deadlier than Push-scooters: Could Hydroxychloroquine be the Unique Solution? » dont chaque ligne ou presque était un canular. Il est important de réaliser que les chercheurs sont évalués en (grosse) partie sur le nombre d’articles qu’ils publient (le célèbre
+Publish or Perish
+) et certains peuvent être tentés de céder à la facilité.
+Source : http://phdcomics.com/comics/archive_print.php?comicid=1108
+Etape 1 : la soumission d’un article
+La soumission est la première étape d’un processus qui peut durer très longtemps-
+plusieurs mois
+. Tout article indique d’ailleurs les dates de soumission, de réception de la version modifiée et d’acceptation. Un membre du comité éditorial de la revue va évaluer rapidement l’article pour savoir s’il est compatible avec la ligne éditoriale de la revue et semble d’une qualité suffisante.
+Ligne éditoriale ? Eh oui, les revues scientifiques ont des thèmes de prédilection (
+Journal of Applied Physics
+ne publie pas des articles de biologie moléculaire) mais aussi parfois des critères plus subjectifs d’inter-disciplinarité et d’intérêt supposé pour leurs lecteurs.
+Science et Nature
+est très attentive à ces points et fait des choix éditoriaux parfois controversés. Ainsi l’article décrivant la découverte du graphène, par Geim et Novoselov (
+qui leur vaudra le Prix Nobel
+) fut initialement rejeté par
+Nature
+. Inversement, des articles ‘dont les conclusions étaient probablement fausses’ furent acceptés car ils semblaient importants pour les éditeurs… (
+https://www.nature.com/articles/425645a
+)
+Etape 2 : l’envoi aux reviewers
+Si l’article passe cette étape il est envoyé à plusieurs (en général 2 ou 3) reviewers qui doivent réaliser une évaluation détaillée de l’article. En pratique, les personnes contactées reçoivent l’abstract de l’article et peuvent accepter ou refuser l’exercice. Ces reviewers sont des experts dans leur domaine, reconnus comme tels pour leurs travaux, qui souvent ont déjà publié dans cette revue.
+Cette étape peut être réalisée en double aveugle (auteurs et reviewers sont anonymes) ou en simple aveugle (les reviewers sont anonymes). Ce dernier est le schéma le plus courant ce qui pourrait paraître surprenant car à priori plus sujet à des biais.
+Pourtant, deviner de quel groupe de recherche provient un article n’est pas impossible pour un expert assez au fait de son domaine. Des indices :  nom d’une expérience, d’un code de simulation, croisement des références, style…. De même on peut parfois reconnaître un reviewer à son style d’écriture et aux références qu’il mentionne pour disputer ou confirmer un argument de l’article.
+Les reviewers doivent juger de la validité scientifique et technique de l’article, du sérieux de la méthode et des analyses et s’assurer que les conclusions sont supportées par les données présentées. Une
+liste de questions
+est généralement fournie par l’éditeur pour guider l’évaluation.
+Etape 3 : Evaluation et révision
+Les évaluateurs écrivent un rapport détaillé et recommandent la rejection, la publication directe, ou la publication après corrections (majeures ou mineures). Les auteurs reçoivent ce rapport et doivent répondre à ces points et modifier leur article avant de le re-soumettre. Cette phase peut se répéter plusieurs fois en cas de désaccord entre les auteurs et les évaluateurs, à la discrétion de l’éditeur. Dans le cas où les différents évaluateurs ont des recommandations très différentes, l’éditeur peut faire appel à des évaluateurs additionnels.
+La phase d’évaluation demande du temps aux évaluateurs pour être faite correctement- si un article est accepté 24h après être soumis,
+on peut se poser des questions
+. Cela peut aller de quelques heures à quelques jours
+selon la longueur et la complexité de l’article
+.  Un reviewer ne peut évidemment refaire l’étude mais doit vérifier les raisonnements, la logique de l’argumentation, sa cohérence avec les données présentées mais aussi les connaissances sur le sujet. Il fait ça de façon totalement bénévole comme un service à sa communauté et en retour des occasions où il a lui-même soumis un article.
+Le temps de publication- entre la première soumission et la publication de l’article final après son acceptation-
+est un sujet contentieux entre auteurs et éditeurs
+. Beaucoup de revues maintiennent des temps courts comme argument marketing. La contrepartie est que le temps laissé aux évaluateurs pour évaluer les articles a tendance à se réduire. Il n’est plus rare que les revues laissent 14 jours pour renvoyer le rapport d’évaluation.
+source : https://tressacademic.com/rejection-reasons/
+Un processus utile mais imparfait
+Le processus de peer-review est un procédé de vérification et de validation qui est aujourd’hui considéré comme partie prenante de la méthode scientifique. Il n’en a pourtant pas toujours été ainsi et il ne s’est vraiment généralisé, sous sa forme actuelle, que dans la seconde moitié du 20
+ème
+siècle.
+A titre d’exemple, aucun article d’Einstein n’est passé en peer-review !! Pis, la seule fois où une revue a envoyé un de ses articles à un évaluateur,
+Einstein s’est fâché
+et a soumis l’article dans une autre revue. Pour la petite histoire, l’évaluateur recommandait de rejeter le papier… La revue
+Annalen der Physik
+dans laquelle Einstein a publié 4 articles majeurs (dont celui sur
+la relativité
+) en 1905 acceptait 90-95% des articles, qui étaient évalués par les éditeurs. Dans le cas d’Einstein, l’éditeur était Max Planck- l’un des pères de la mécanique quantique et donc un physicien émérite. La revue
+Nature
+n’a systématisé le recours au peer-review qu’en
+1973
+. Pour un historique plus détaillé voir
+ici
+.
+La recherche en dehors des publications
+Les conférences permettent par exemple de débattre de théories scientifiques. On peut notamment penser aux échanges entre Niels Bohr et Einstein lors des congrès Solvay au sujet de la mécanique quantique. Aussi important que puisse être le peer-review, un article scientifique n’est bien souvent qu’un apport à un corpus plus large de connaissances permettant de confirmer ou d’infirmer une théorie, de décrire de nouvelles observations ou de ré-analyser des résultats passés à la lumière de nouvelles connaissances.
+De plus, des avancées majeures dans les sciences ont été faites en dehors des revues scientifiques.
+Un exemple connu est le livre de Darwin,
+L’origine des espèces
+publié en 1859. Comment considérer les livres dans la production de connaissance ? La question est d’autant plus difficile à traiter que la palette est large et qu’entre un manuel scientifique, un essai et un ouvrage de vulgarisation par exemple, il y a une énorme différence.
+En effet, la publication d’un livre donne une audience médiatique qu’un article scientifique permet très rarement- à l’exception de papiers majeurs- et permet donc la diffusion d’idées beaucoup plus facilement, mais sans devoir passer par le filtre de la revue par les pairs. Cela ne remet pas en cause la validité de l’exercice, mais il faut garder en tête que le parti pris peut être plus fort pour un livre.
+Ce que le peer-review n’est pas…
+Un point crucial est que le peer-review valide (ou est censé valider) la méthode et le sérieux mais ne signifie pas que l’article est exempt de critiques. Quand on regarde des articles traitant d’un sujet, on peut en trouver avec des conclusions très différentes pour une même question de départ. Tout dépend du cadre que les chercheurs se sont fixés, des hypothèses qu’ils font ou même du modèle utilisé.
+Des hypothèses différentes peuvent tout à fait être justifiées de façon rigoureuse car elles considèrent différents scénarios ou différents périmètres d’études. Il n’y a pas forcément de vrai ou de faux. La représentation du peer-review est parfois largement exagérée. Tel ce site annonçant que la découverte du Boson de Higgs était devenue de la
+vraie science
+après publication des résultats dans une revue. Or ce qui fait que cette découverte est avérée n’est pas sa publication mais la méthode utilisée et le niveau de confiance statistique dans les résultats.
+Un exemple représentatif ?
+Lors de la lecture d’un article il est donc important de regarder comment l’article se place par rapport à d’autres articles sur le sujet et comment l’article est cité. Cela permet notamment de détecter des papiers qui ont été contredits ou au contraire confirmés. Avoir un esprit critique reste donc primordial. Et c’est en ça qu’une publication prise isolément peut ne donner qu’une vision parcellaire des choses. C’est en cela aussi qu’un expert ayant une vision plus large des choses- la veille scientifique étant une activité à part entière des chercheurs- pourra remettre en contexte rapidement les résultats d’une étude.
+Un exemple emblématique concerne un article publié en 2019 dans
+Science
+(‘
+The global tree restoration potential
+’) concluant qu’une reforestation massive permettrait de stocker jusqu’à un tiers des émissions de CO2 anthropiques cumulées. Potentiellement une excellente nouvelle ! Mais cette étude est rapidement
+contredite
+par un commentaire pointant des erreurs et suggérant que le potentiel de capture du CO2 serait en fait 5 fois moins élevé. Toujours bon à prendre mais clairement plus loin de la solution miracle initiale.
+Un autre exemple concerne la
+controverse
+autour d’un article publié en 2015 par Mark Jacobson sur la possibilité d’un scénario 100% renouvelable aux USA. Sans rentrer dans les détails, l’article a donné lieu à des débats houleux- à tel point que Jacobson a fini par porter l’affaire
+devant les tribunaux
+avant de finalement abandonner.
+Ces articles sont toujours consultables et peuvent être cités. Ils ont passé le filtre de la revue par les pairs. Cela ne signifie pas qu’ils font consensus, et en tant que tel ils ne représentent pas une vérité inébranlable- en admettant que cela existe. Un article pris isolément ne permet pas de conclure quant à un éventuel
+consensus
+autour des résultats. Il faut garder ça en tête et ne pas faire dire à un article scientifique plus que ce qu’il ne vise.
+Alors, comment s’y retrouver ?
+Connaître et pouvoir juger d’un sujet nécessite d’avoir lu plusieurs (de nombreux ?) articles, de garder un œil critique et de ne pas négliger des arguments opposés. Le peer-review est un procédé important mais ne constitue pas une validation des résultats proposés. Il est donc important de ne pas lui donner un rôle qu’il n’a jamais eu.
+Quelques conseils :
+Vérifier que la revue scientifique est sérieuse et n’est pas dans la liste des revues
+prédatrices
+. Comme mentionné plus haut, le facteur d’impact ne fait pas tout. Des revues scientifiques sont créées régulièrement et n’ont un facteur d’impact qu’après plusieurs années.
+Déterminer le type d’article : lettre (communication brève d’un résultat marquant), article régulier, article de revue (qui fait le point sur les connaissances dans un domaine), méta-analyse… Pour une introduction à un domaine, un article de revue est en général un bon début.
+Croiser les sources. Chercher le nom d’un article dans un outil tel que Google Scholar permet facilement de voir si l’article a été cité.
+Si l’article vient d’être publié, une recherche sur les différents auteurs permet de voir leurs publications précédentes
+Ne lisez pas l’article en entier ! Soyons honnête, une publication scientifique est rarement d’un style enlevé… L’abstract permet normalement de se faire une bonne idée du contenu (attention aux titres un peu trop optimistes…) et de savoir si l’article correspond à la recherche ou pas
+Lisez l’introduction et vérifiez les références citées.
+L’introduction doit préciser le but et le périmètre de l’étude. Gardez cela en tête en arrivant à la conclusion.
+Gardez un esprit critique. C’est plus facile si vous maîtrisez un peu le sujet mais il est important de se demander si les hypothèses sont bien justifiées, si les conclusions sont bien supportées par les résultats montrés, etc…
+Le mot de la fin
+Cet article n’est évidemment pas exhaustif et simplifie certaines choses. Les revues scientifiques sont un moyen pour les chercheurs de communiquer leurs résultats via un processus visant à améliorer la qualité des publications. En dehors de ce contexte normé, il peut être tentant d’assimiler le processus de peer-review à une validation des conclusions.
+Si les chercheurs connaissent bien les rouages de l’univers des publications scientifiques, celui-ci est souvent mal connu en dehors du milieu. La vulgarisation se concentre souvent sur les résultats de la recherche plutôt que sur sa production et sa communication. Une meilleure connaissance du fonctionnement des revues scientifiques ne peut qu’améliorer l’utilisation faite de publications scientifiques en dehors du monde de la science.
+Texte de
+Greg de Temmerman
+
+
+
+Thomas Wagner
+
+

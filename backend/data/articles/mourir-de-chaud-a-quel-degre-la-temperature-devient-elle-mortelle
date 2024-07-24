@@ -1,0 +1,181 @@
+Les récentes canicules en
+Inde
+, aux Etats-Unis et
+dans plusieurs pays de l’Union Européenne
+ont mis en lumière la dangerosité du changement climatique. En effet,
+nous savons qu’il va augmenter la fréquence, la durée et l’intensité des canicules
+. Mais un phénomène tout aussi inquiétant se fait
+de plus en plus fréquent
+et est tout simplement mortel :
+le thermomètre mouillé (wet bulb)
+.
+En effet, à un certain seuil,
+le mélange de chaleur et d’humidité rend tout simplement la température insupportable pour l’humain
+et même en excellente santé, cela peut être mortel en seulement quelques heures. Ce seuil a été brièvement dépassé en 2022 lors de la canicule à
+Jacobabad
+, au Pakistan. Cette ville de 200 000 habitants est certes habituée à de très fortes chaleurs, mais nous parlons bien ici de littéralement mourir de chaud !
+En parcourant la littérature scientifique, on se rend compte que nous nous rapprochons de plus en plus de ce seuil, voire le dépassons, dans plusieurs parties du globe et
+avec des décennies d’avance
+. Cet article revient sur les nombreux indicateurs existants, qui ont chacun leurs spécificités, avantages et inconvénients. Alors qu’
+il en existe au moins une dizaine
+, seront présentés ici les trois plus populaires : le thermomètre mouillé (wet bulb), l’Humidex, et le Heat Index.
+Qu’est-ce que le “thermomètre mouillé” (wet bulb temperature)
+Pour bien comprendre de quoi il s’agit, voici une définition du thermomètre mouillé (wet bulb en anglais) :
+“
+température humide à laquelle l’air est saturé et retient autant d’humidité qu’il peut sous forme de vapeur d’eau ; la sueur d’une personne ne s’évapore pas à cette température
+“
+.
+L’humidité a une importance fondamentale puisque qu”elle joue sur la capacité du corps à se refroidir en limitant l’évaporation de la transpiration. Aussi, lorsque la température au thermomètre mouillé dépasse environ 30°C, nous sommes incapables de réduire notre température par la transpiration et nous souffrons d’un coup de chaleur mortel au bout de quelques heures (généralement entre 4 et 6 heures).
+Que vous ayez de l’eau avec vous ne changera rien au résultat. Que vous soyez en bonne santé ou pas non plus. Sans une solution rapide, la température de votre corps
+augmentera d’un degré à peu près toutes les 45 minutes
+.
+Ce n’est donc pas la transpiration qui nous rafraîchit, mais son évaporation.
+Et plus l’humidité est importante, moins le corps sera capable de se rafraîchir
+. Voici un exemple de psychromètre qui permet d’obtenir la température du thermomètre mouillé.
+Exemple d’un psychromètre
+Il existe plusieurs façons de le calculer. La plus courante est l’
+équation de Stull
+, qui permet d’obtenir une valeur avec une marge d’erreur de +/- 0.3°C :
+Equation de Stull pour obtenir le thermomètre mouillé
+Les 2 valeurs les plus importantes sont
+T, pour la température de l’air
+(ou température sèche, dry-bulb), qui est la température donnée par un thermomètre non exposé à la lumière directe du soleil, et
+RH% pour l’humidité relative
+, qui est le rapport entre la quantité de vapeur d’eau présente dans l’air et la quantité qu’il pourrait contenir à une température donnée. Si cela vous intéresse, vous pouvez l’obtenir en rentrant les 2 valeurs
+grâce à ce calculateur
+.
+Comment interpréter les valeurs du thermomètre mouillé ?
+L’interprétation du thermomètre mouillé est plutôt simple.
+Premièrement,
+sa température est toujours égale ou plus basse que la température de l’air
+. Vous pouvez avoir une température de 50°C, mais un thermomètre mouillé (Tw) entre 30 et 35 Tw, en fonction de l’humidité. Deuxièmement, si l’humidité reste la même,
+elle augmente presque linéairement avec la température
+. Le graphique simplifié ci-dessous permet de comprendre la température limite que le corps humain peut supporter, couplée avec l’humidité.
+Combinaisons de température de l’air et d’humidité relative en limites environnementales critiques, au-delà desquelles la température corporelle centrale augmente.
+La frontière entre les zones jaune et rouge représente la limite environnementale critique moyenne pour les jeunes hommes et femmes ayant une activité minimale.
+Crédit : W. Larry Kenney, CC BY-ND
+NB : si nécessaire, vous pouvez
+convertir la différence entre Celsius (°C) et Fahrenheit (F)
+pour interpréter les valeurs dans différents pays. Par exemple, 36.7°C = 98 F.
+Thermomètre humide : risque de mort à 35 ou 31°C ?
+La valeur d’un thermomètre humide de
+35°C est souvent présentée
+comme létale. Mais cette valeur est théorique, et les dernières études (avec résultats empiriques) montrent que cette valeur serait plutôt
+autour de 31°C
+.
+Ce sont des résultats importants et un changement crucial, puisque depuis plus de 10 ans c’est la valeur de 35°C qui est retenue, notamment en ayant pour référence
+cette étude de 2010
+.
+Les auteurs de ces travaux alertent sur le fait que nous ayons sous-estimé le risque : “
+nos études sur de jeunes hommes et femmes en bonne santé montrent que cette limite environnementale supérieure est encore plus basse que la théorie des 35
+°
+C. Il s’agit plutôt d’une température au thermomètre humide de 31 °C (88 F). Cela équivaut à 31 °C pour une humidité de 100 % ou à 38 °C (100 F) pour une humidité de 60 %.
+Au-delà de cette limite, la température du corps augmente continuellement et le risque de maladies liées à la chaleur lors d’expositions prolongées est accru. Bien sûr, ce qui vient d’être dit est le cas pour les personnes en bonne santé. Vous pouvez avoir de graves problèmes de santé ou mourir avec une température humide moins importante. En effet,
+28 degrés peuvent suffire
+, comme lors des canicules européennes et russes de 2003 et 2010 qui firent des dizaines de milliers de morts.
+Un risque sous-estimé
+Plus récemment, et malgré les dispositifs en place pour prévenir les canicules et minimiser les dégâts, la canicule qui touche plus de 200 millions de personnes en Europe a d’ores et déjà tué plus de 700 personnes, notamment en Espagne et au Portugal. Avec ou sans humidité, les canicules tuent. Et elles tuent partout dans le monde, y compris en Chine, où
+la récente canicule qui a touché 900 millions de Chinois
+a également causé la mort de plusieurs personnes.
+Mais lorsque l’humidité s’en mêle, le risque de mortalité est accrue, et d’après plusieurs études,
+sous-estimé
+. Une récente étude publiée en mars 2021 indique par exemple qu’à +1.5°C de réchauffement climatique planétaire,
+le stress thermique mortel va devenir courant en Asie du Sud
+.
+Cette étude pointe notamment le fait que “
+les estimations précédentes de l’exposition au stress thermique ont pu être conservatrices en raison de biais dans les données
+“. Sachant que cette étude prend un thermomètre mouillé à 35°C comme limite… imaginez alors que la référence soit un thermomètre mouillé de 31 et non 35…
+Différence entre +1.5°C et +2°C de réchauffement global. Nombre d’occurrences où le thermomètre mouillé atteindra 32°C et 35°C
+Source :
+Deadly Heat Stress to Become Commonplace Across South Asia Already at 1.5°C of Global Warming
+Cette cartographie est un excellent rappel qu’un monde à +1.5°C est déjà un tout autre monde comparé à celui que nous connaissons en 2022, et dire qu’être “pragmatique c’est limiter seulement à +2°C”
+est au mieux irresponsable
+.
+Pour conclure sur le thermomètre mouillé, trois points à retenir :
+Que des températures deviennent insoutenables pour l’humain n’a rien de nouveau. C’est déjà arrivé par le passé. En revanche, à cause du réchauffement climatique anthropique, la fréquence des températures se rapprochant du seuil fatidique partout dans le monde est en claire augmentation.
+Cette carte montre les endroits qui ont connu des niveaux de chaleur et d’humidité extrêmes pendant une courte période (0,1 % des températures maximales quotidiennes au thermomètre mouillé les plus chaudes) de 1979 à 2017. Les couleurs plus foncées indiquent des combinaisons plus sévères de chaleur et d’humidité.
+Carte établie par NOAA. Données :
+Radley Horton & al
+La recherche progresse encore sur le sujet, notamment pour les impacts régionaux. Il est intéressant de constater que les risques ont parfois été sous-estimés et qu’il est important de continuer la recherche sur le sujet (notamment d’avoir plus de résultats empiriques).
+En comparant les projections faites il y a quelques décennies, voire il y a quelques années, les modèles prévoyaient que la fréquence des températures de thermomètre mouillé devienne important vers la fin du XXIe siècle. Malheureusement, cela arrive avec des décennies d’avance.
+2/ Qu’est-ce que l’Humidex ?
+L’
+Humidex
+est une innovation canadienne utilisée pour la première fois en 1965. Il indique
+de quelle manière le temps chaud et humide est perçu par une personne moyenne. L’Humidex combine la température et l’humidité en une seule donnée pour refléter la température perçue. Parce qu’il tient compte des deux principaux facteurs qui influencent le confort durant l’été, il peut mieux indiquer la sensation en présence d’air étouffant plutôt que par la température ou l’humidité uniquement
+.
+L’Humidex est un calcul, à ne pas confondre avec le thermomètre humide que l’on peut mesurer via un psychromètre. Par exemple, avec une température à 40°C et un taux d’humidité à 50 % (ou 36°C avec 75 %), Nous avons une valeur de 55 :
+Le rôle de l’humidité sur l’inconfort lié à la chaleur.
+L’indice humidex ne prend pas en compte l’exposition de la peau au soleil ni les vents qui pourraient aider à l’évaporation. Attention : c’est un calcul, et non une mesure.
+Source :
+Méteo-Paris.com
+Pour visualiser les températures sur une carte, prenons par exemple le Sud-Ouest de la France, où il a fait plus de 40°C la semaine du 11 juin 2022. Avec l’Humidex, nous atteignons des valeurs au-delà de 50 :
+La carte à gauche indique des valeurs Humidex, la carte à droite indique les températures sous leur forme classique
+Source : MétéoCiel.
+Cartes partagées par C. Cassou sur Twitter
+.
+Le Heat Index
+L’Humidex et le “wet bulb” sont très peu mentionnés dans le
+1er volet du rapport du GIEC
+. Il est plutôt utilisé la notion de Heat Index. Le changement climatique augmentera le nombre de jours d’exposition à une chaleur extrême dangereuse – mesurée par l’indice de chaleur pour la santé (Health Heat Index, HHI).
+Comme pour les canicules, le Heat Index diffère selon les zones géographiques (donc n’a pas une valeur internationale qui s’appliquerait partout). On retrouve dans le
+chapitre 12 du dernier rapport du GIEC
+une illustration des zones à risque :
+(a-c) Nombre moyen de jours par an où la température maximale dépasse 35°C ;
+(d-f) Nombre moyen de jours par an où l’indice de chaleur
+NOAA
+(HI) dépasse 41°C.
+Source : Chapitre 12, AR6 WG1
+Pourquoi l’Humidex ou le thermomètre mouillé ne sont pas directement utilisés ?
+A l’instar de Peter Kalmus, c’est une demande récurrente de certain(e)s scientifiques ou expert(e)s météo et climat : que le thermomètre mouillé soit la mesure primaire, ou
+a minima
+indiqué. Il déclarait en mai 2022 “
+Météorologues : veuillez utiliser la température du bulbe humide comme mesure PRIMAIRE. C’est ce qui tue les gens et les extrêmes de température humide s’intensifient rapidement à cause de l’industrie des combustibles fossiles et du manque d’action des dirigeants mondiaux
+“.
+Comme tout indice, il y a des avantages et des inconvénients. Mais il faudrait un effort national/international de pédagogie sur ces valeurs et ces indices pour éviter toute confusion. Imaginez que des cartes avec des valeurs Humidex remplacent celles avec les températures d’un air sec, nous aurions des valeurs de 50°C qui auraient un fort risque de mauvaise interprétation, voire de désinformation. De plus, l’Humidex ne prend pas en compte le vent, qui aide à évacuer la sueur et baisser par conséquent la température affichée.
+L’une des solutions pourrait être d’afficher plusieurs valeurs, comme le propose Weatherstats. Cela rendrait cependant une carte moins lisible et il est probablement préférable de continuer à ne garder qu’une seule valeur affichée, et d’informer correctement lorsque celle-ci est couplée avec de l’humidité.
+Crédit : Weatherstats.ca
+Des effets et conséquences hétérogènes partout dans le monde
+Qui souffre le plus des canicules ? Pour y répondre, il faut souligner le fait que cela ne dépend pas que des seuils géophysiques. Il y a un aspect sociétal très important et des inégalités face aux risques de chaleur extrême. Cela dépend de la zone géographique, du pays, et même à l’intérieur du pays, des différents revenus pour s’adapter. Une carte seule ne pourrait représenter la complexité du phénomène.
+Si un thermomètre mouillé affiche le seuil limite, cela aura moins de conséquences dans une ville où la majorité des habitant(e)s ont les moyens de s’adapter.
+C’est le cas aux Émirats arabes unis, où l’électricité et la climatisation sont abondantes. En revanche, à
+
+Jacobabad, où beaucoup subsistent avec un salaire de quelques euros/ jour seulement, les habitants n’ont parfois pas le luxe de pouvoir s’adapter.
+Rappelons également que la climatisation a plusieurs limites et peut se transformer en mal-adaptation. En effet,
+les coupures de courant ont été fréquentes lors des dernières canicules en Inde et au Pakistan
+, laissant des milliers d’habitants sans électricité pendant de nombreuses heures.
+Canicule à Allahabad en Inde, 2015. Crédit :
+Climate Visuals
+Le même constat peut être fait pour les différents métiers, même au sein d’une même ville. Une personne travaillant dans le BTP ou dans l’agriculture, notamment via son activité physique, sera bien plus susceptible de subir les effets d’une vague de chaleur qu’une personne travaillant dans un bureau climatisé à faire des PowerPoint.
+Ajoutez à cela des maladies cardiaques, des maladies chroniques, des problèmes respiratoires ou autres problèmes de santé, et vous aurez toutes les conditions réunies pour les symptômes d’un coup de chaleur : température élevée, crampes, maux de tête, symptômes neurologiques, etc. Si le coup de chaleur (heat stroke) est plutôt rare, il n’en reste pas moins grave :
+il est mortel dans 15 à 25 % des cas
+.
+Le mot de la fin
+Le mélange de chaleur et d’humidité est à un certain seuil insupportable pour l’humain
+et même en excellente santé, cela peut être mortel en seulement quelques heures. Dans un monde plus chaud, le stress thermique humide peut se produire pendant des mois et dans plusieurs régions du monde, y compris dans les régions densément peuplées.
+Les conséquences sont très inégalitaires
+et
+sans adaptation ni réduction importante et rapide de nos émissions de GES, la fréquence avec laquelle le seuil limite du thermomètre humide sera atteint voire dépassé sera de plus en plus importante
+.
+Aujourd’hui, en 2022, des personnes meurent déjà des excès des pays du Nord. Des personnes meurent de l’inaction d’autres personnes qui ont pourtant le pouvoir et le devoir de protéger les populations. Si cela arrive déjà dans un monde réchauffé de +1.2°C au niveau mondial, il est évident que ces canicules feront des ravages à +2°C, voire +3°C si nous ne changeons pas de système économique.
+Pour aller plus loin :
+Le site de Santé Publique France :
+quelles mesures pour prévenir les risques liés à la chaleur
+Exposition aux canicules :
+des enjeux d’équité entre générations
+et le
+thread de Valérie Masson-Delmotte
+Des études et papiers intéressants
+:
+Actual and simulated weather data to evaluate wet bulb globe temperature and heat index as alerts for occupational heat-related illness
+Trend analysis of Humidex as a heat discomfort index using Mann-Kendall and Sen’s slope estimator statistical tests
+An adaptability limit to climate change due to heat stress
+(heureusement, avoir +7°C n’est plus vraiment d’actualité)
+Underestimated Change of Wet-Bulb Temperatures Over East and South China
+Temperature and humidity based projections of a rapid rise in global heat stress exposure during the 21st century
+
+
+
+Thomas Wagner
+
+

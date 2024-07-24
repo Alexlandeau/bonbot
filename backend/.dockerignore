@@ -1,0 +1,16 @@
+.git
+.firebase
+.editorconfig
+.vscode
+.pytest_cache
+/node_modules
+/e2e
+/docs
+/venv
+/tests_venv
+/logs/backend.log
+/data/falcon_data.pickle
+tests/allure_report
+.gitignore
+*.zip
+*.md

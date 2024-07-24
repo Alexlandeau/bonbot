@@ -1,0 +1,39 @@
+.DemoChatQueryInput {
+  padding: var(--spacing-2x);
+  display: block;
+  box-sizing: content-box;
+  border: 1px solid var(--secondary-light);
+  border-radius: 20px;
+
+  .DemoChatQueryInput-Form {
+    display: flex;
+    flex-direction: row;
+    gap: var(--spacing-2x);
+    align-items: center;
+
+    > textarea {
+      background-color: transparent;
+      resize: vertical;
+      overflow: auto;
+      max-height: 130px;
+      min-height: 26px;
+      box-sizing: border-box;
+      width: 100%;
+      font-size: 16px;
+      color: var(--secondary-light);
+      border: 0;
+      outline: none;
+    }
+
+    > button {
+      background: none;
+      border: none;
+      height: 36px;
+      padding: var(--spacing);
+
+      > img {
+        height: 100%;
+      }
+    }
+  }
+}

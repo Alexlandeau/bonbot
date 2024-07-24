@@ -1,0 +1,90 @@
+Si Emmanuel Macron “adore la bagnole”, le portefeuille des Français(e)s l’aime un peu moins. Souvent réduit au plein d’essence et aux péages, le vrai coût d’une voiture est bien plus important. De quoi vous faire aimer d’autres moyens de transports ?
+Les transports représentent 32% des émissions territoriales de notre pays
+, et les émissions ont augmenté de +2.9% en 2022 (données provisoires). C’est catastrophique. Mais si le changement climatique n’apparaît pas encore aux yeux de tous comme une raison valable pour réduire la voiture, il est possible que son (vrai) prix puisse peser dans balance.
+Le coût d’un trajet en voiture est souvent réduit à celui du carburant et des péages d’autoroute. Mais alors qui paie l’achat, l’entretien, le parking, l’assurance ?
+On fait le point en quelques clics avec le simulateur de référence du coût d’un trajet en voiture.
+Le simulateur du vrai coût d’une voiture
+Voici le simulateur grâce auquel vous obtiendrez le vrai coût d’une voiture en quelques clics.
+ATTENTION :
+ce simulateur n’est pas le premier modèle de calcul, mais c’est le premier simulateur que vous pouvez utiliser gratuitement et en open source. Il fut un temps, il était possible d’avoir un calcul semblable
+via Michelin
+mais ce n’est plus d’actualité. V
+ous souhaitez que ce simulateur soit de meilleure qualité ? Aidez-nous !
+Contactez Maël Thomas
+, le développeur du simulateur.
+
+
+Quels critères prendre en compte pour le vrai coût d’une voiture ?
+Nous pouvons séparer le coût final en plusieurs étapes. D’abord, les coûts instantanés, comme le coût de l’énergie et les péages d’autoroute. Ensuite, le coût de possession de la voiture, comme l’amortissement du véhicule, l’assurance, etc. Enfin, vous pouvez ajouter quelques dépenses diverses, comme les frais de parking, les amendes etc.
+Voici les critères pris en compte pour le vrai coût d’une voiture :
+Coûts instantanés
+Coût de l’énergie :  c’est le prix du carburant pour le quotidien. Rappelons que pour les véhicules au pétrole, c’est plus des
+trois quarts des émissions
+de gaz à effet de serre qui sont liés à l’usage des voitures, c’est-à-dire à la production et la combustion des carburants. Pour l’électrique, au contraire, c’est de l’ordre des
+trois quarts
+de l’impact climatique qui se concentrent sur la production du véhicule, tandis que l’usage émet peu de CO2. Lire cet
+article sur la voiture électrique
+.
+Péages d’autoroute : selon les routes que vous empruntez, le coût peut être conséquent, surtout
+sur la future autoroute la plus chère de France
+.
+Coûts de possession
+Amortissement du véhicule : l’hypothèse de base est qu’une voiture a
+une durée de vie moyenne en France de 20 ans
+, et l’âge moyen du parc est plutôt de 9-10 ans. Donc le prix a été réparti selon cette hypothèse (voir les explications données dans la partie ‘limites’ ci-dessous). La durée de vie moyenne est bien sûr différente selon votre type de véhicule, les voitures électriques ayant une plus grande durée de vie.
+Assurance : le prix varie selon votre ancienneté, le type de véhicule etc., et est bien sûr bien au-delà de 100€ / an.
+Entretien : les frais d’entretien sont très variables selon les conducteurs ou conductrices, et il est par ailleurs difficile d’en faire une moyenne.
+Lavage : le lavage est également dépendant de votre amour du propre : entre 0 lavage annuel et un lavage hebdo, il y a un petit monde… et un budget à l’arrivée.
+Coûts divers
+Parking : selon votre ville,
+les places de parking peuvent être de 2 à 10 fois plus chères
+. Que ce soit mensualisé, annualisé ou utilisé ponctuellement, et en fonction de la fréquence, un parking peut coûter plus cher à l’année que l’essence.
+Les amendes : à prendre si vous n’êtes pas irréprochable, stationnement, excès de vitesse, stage de récupération de points… Il y a tout de même eu
+40 millions de contraventions
+en 2021 en France, un record.
+Quelles sont les limites du calculateur ?
+Comme tout simulateur, ce simulateur a des limites et nous souhaitons les rappeler ici afin d’améliorer le simulateur autant que possible. Comme pour le simulateur
+ferry
+,
+piscine
+ou
+avion
+, l’important est d’avoir un ordre de grandeur en tête afin d’éclairer au mieux les décisions personnelles et publiques.
+D’après Maël Thomas,
+l’une des principales sensibilités de ce modèle concerne l’estimation du coût d’achat de la voiture ramené au km. Il n’est pas aisé d’obtenir des données sur les km parcourus par les voitures amenées à la casse, et en particulier concernant les voitures électriques, ni des informations statistiques fiables sur les frais d’entretien. Or, le coût d’achat est un des facteurs clef du coût final
+.
+Comment compter le prix d’achat : est-ce un amortissement comme considéré ici, donc un choix comptable où le prix de la voiture est à payer sur 20 ans ? Ou le coût d’achat n’est pas intégré dans le coût quotidien et où l’on considère l’achat de la voiture comme un investissement ? La première option est retenue ici, mais c’est un choix qui peut être questionné.
+Les coûts du prêt à la consommation : dans cette version, le coût du capital n’est pas pris en compte, ce qui peut sensiblement faire changer le résultat final.
+Pollution de l’air. De nombreuses externalités ne sont pas prises en compte. L’impact de la voiture individuelle a aussi un coût pour la société avec la pollution. Rappelons que la pollution de l’air c’est
+48 000 décès prématurés en France chaque année
+.
+Pollution sonore
+:
+les nuisances sonores engendrées par le trafic routier ont longtemps été sous-estimées. Elles ont pourtant des conséquences sanitaires non négligeables. L’Ademe a même récemment estimé que les
+coûts sociaux attribuables aux nuisances sonores
+(dont 55 % provient du trafic routier) seraient supérieurs à
+ceux attribuables à la pollution atmosphérique
+.
+Les usagers de la route paient-ils le juste prix de leurs circulations ? C’est très loin d’être le cas,
+selon cette note de la Direction générale du Trésor
+.
+L’usager de la route génère des coûts pour les autres usagers (usure de la route, congestion, accidents de la route) et pour la collectivité (pollution de l’air, émissions de gaz à effet de serre, bruit). Selon la théorie économique, il serait optimal que l’usager de la route paie les coûts engendrés pour la collectivité par sa décision de circuler, appelés externalités. Les prélèvements supportés par les usagers sont surtout la fiscalité sur les carburants et les péages. Lorsque ces prélèvements sont inférieurs aux externalités, il y a trop de déplacements routiers par rapport à ce qui est souhaitable.
+L’objectif de ce calculateur est d’avoir un ordre de grandeur. Il est difficile d’avoir un résultat parfait à la virgule près, notamment à cause de ces limites. Comme pour tout calcul d’empreinte carbone, il faut faire des choix dans la méthodologie.
+Que retenir de ce simulateur ?
+La voiture coûte cher
+, et bien plus cher que ce qu’on a l’habitude de présenter. Elle coûte cher aux automobilistes,  à la société via ses externalités négatives et enfin elle coûte et coûtera de plus en plus cher via les émissions de gaz à effet de serre. La voiture individuelle représente 15% des émissions en France et rien ou très peu n’est fait pour changer cela.
+Trois solutions apparaissent. La première : développer le co-voiturage. Ensuite, emprunter les alternatives quand elles sont disponibles. La mobilité active, les transports en commun et/ou le train. Enfin, si jamais l’achat d’une voiture est indispensable et que vous n’avez pas le choix,
+optez pour une voiture électrique, sans aucune hésitation possible
+.
+Réduire la place de la voiture individuelle en France est un enjeu de politique publique, une nécessité et une urgence absolue. Si ce simulateur doit aider à informer le citoyen sur le vrai coût de la voiture, se séparer de sa voiture est parfois impossible et il n’y aura aucun miracle sans que les pouvoirs publics engagent des changements structurels.
+Pour aller plus loin
+Les 10 mensonges les plus courants sur la voiture en France
+Les voitures hybrides rechargeables, fausse solution pour le climat
+Les véhicules intermédiaires : l’avenir de la mobilité ?
+Comment calculer son empreinte carbone
+
+
+
+Thomas Wagner
+
+

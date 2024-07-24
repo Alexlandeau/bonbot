@@ -1,0 +1,30 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--secondary-dark);
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Setting the app height to 100% of screen, cf https://stackoverflow.com/a/42877693 */
+html,
+body,
+#root,
+#root > div {
+  height: 100%;
+}

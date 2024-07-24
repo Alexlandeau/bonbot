@@ -1,0 +1,158 @@
+Par
+Maxence Cordiez
+, ingénieur dans le secteur de l’énergie
+Le sujet de l’hydrogène revient régulièrement dans les débats autour de la transition énergétique, que ce soit pour réduire la dépendance au pétrole dès les années 70 ou les émissions de gaz à effet de serre à partir des années 90. Pourtant, l’hydrogène bas carbone ne s’est pour ainsi dire pas développé jusqu’à présent, du fait d’un certain nombre de contraintes et limites, qui ne doivent pas être sous-estimées, entourant notamment sa production, son stockage, son transport et son utilisation.
+Les choses évoluent cependant depuis quelques années, de nombreux pays tels que la France
+[1]
+, l’Allemagne
+[2]
+, l’Espagne
+[3]
+, l’Union européenne
+[4]
+, le Japon
+[5]
+, l’Australie
+[6]
+… ayant publié presque simultanément leur stratégie de déploiement de ce secteur.
+Les objectifs et l’approche de cette question varient significativement selon les pays, certains y voyant à la fois un moyen de décarboner certains usages difficilement électrifiables et de pallier l’intermittence de la production éolienne et solaire en s’appuyant en partie sur des importations d’hydrogène (Allemagne), d’autres envisageant de subvenir à leurs propres besoins pour décarboner les secteurs difficilement électrifiables (France).
+Cet article s’attachera à présenter les enjeux liés à l’émergence d’une filière hydrogène ainsi que certaines de ses limites.
+L’hydrogène, qu’est-ce que c’est ?
+L’hydrogène – ou plutôt devrait-on dire dihydrogène – est une molécule réductrice (c’est-à-dire apte à céder des électrons, contrairement à un oxydant) et combustible. L’industrie française en consomme aujourd’hui un peu moins d’un million de tonnes par an, dans les secteurs suivants : raffinage du pétrole (60%), production d’engrais (25%), chimie (10%), applications diverses (4%) et métallurgie (1%)
+[7]
+.
+Figure 1 – Consommation d’hydrogène par usage en France (source : RTE)
+Si l’application au raffinage de pétrole est amenée à décroître avec le temps du fait de l’objectif de neutralité carbone et de l’épuisement des ressources fossiles, les autres devraient se maintenir et de nouvelles applications (dans l’industrie et la mobilité) devraient voir le jour. Concrétiser l’objectif de neutralité carbone devrait donc entraîner une hausse de la demande d’hydrogène bas carbone.
+La stratégie hydrogène française de 2020 prévoit ainsi l’installation de 6,5 GW d’électrolyseurs à l’horizon 2030, ce qui permettrait de produire près d’un million de tonnes de H
+2
+(sous réserve que les électrolyseurs puissent fonctionner avec un facteur de charge élevé, sinon ce sera moins).
+Aujourd’hui, l’hydrogène consommé en France est à 95% d’origine fossile et produit par quatre voies. Pour les trois premières, l’hydrogène est un coproduit :
+40% par oxydation d’hydrocarbures (coproduit de l’industrie pétrolière),
+15% par gazéification du charbon (coproduit de la production de coke),
+5% par électrolyse de saumure (coproduit de la production de chlore),
+40% par vaporéformage de méthane.
+C’est seulement
+via
+la dernière voie, le vaporeformage de méthane, que l’hydrogène est produit pour lui-même et pourrait donc être mis directement en concurrence avec de l’hydrogène produit par électrolyse.
+Figure 2 – Production de l’hydrogène en France (source : RTE)
+En effet, indépendamment de l’offre et de la demande d’hydrogène (bas carbone ou non), tant que l’industrie sidérurgique continuera à consommer du coke pour réduire du minerai en métal, de l’hydrogène sera coproduit avec le coke (moyennant d’importantes émissions de CO2). Pour réduire cette production d’hydrogène carboné, il faudra réduire celle de coke, donc décarboner la sidérurgie… par exemple en y substituant le coke par de l’hydrogène (bas carbone).
+L’ensemble de la production d’hydrogène en France émet environ 10 MtCO
+2
+/an, ce qui correspond à 2-3% des émissions nationales.
+L’électrolyse induira d’importants besoins d’électricité
+En France à court terme, 400 000 tonnes d’hydrogène (le volume actuellement produit par vaporéformage de méthane) peuvent être décarbonées en les produisant par électrolyse de l’eau à partir d’électricité bas carbone. À moyen terme, de nouveaux usages pour l’hydrogène bas carbone pourraient voir le jour si la production le permet.
+Sans aborder encore les aspects économiques, l’une des limites de la production d’hydrogène réside dans la production électrique. En effet, sans tenir compte des pertes énergétiques lors des étapes de compression, transport et stockage d’hydrogène, le rendement du procédé de conversion de l’électricité en hydrogène attendu à l’horizon 2030 est de 63-71% (valeurs en pouvoir calorifique inférieur, PCI)
+[8]
+. Ainsi, un réacteur nucléaire de 900 MW fonctionnant avec un facteur de charge de 80% permettrait de produire annuellement environ 128 kilotonnes d’hydrogène (ktH
+2
+). Une éolienne terrestre de 3 MW avec un facteur de charge de 25%
+[9]
+produira 133 tH
+2
+/an. De ce fait, un peu plus de 3 réacteurs de 900 MW ou 3000 éoliennes terrestres de 3 MW seraient nécessaires pour décarboner les 400 000 tonnes d’hydrogène aujourd’hui produites par vaporeformage de méthane
+[10]
+.
+L’hydrogène doit être réservé aux secteurs qui ne peuvent pas être décarbonés autrement
+Supposons que les motorisations à hydrogène pour avions de ligne existent, soient matures et puissent répondre à tous les trajets jusqu’au long courrier (ce n’est pas le cas
+, d’ailleurs l’industrie aéronautique n’envisage pas à ce stade de faire voler des avions longs courriers à hydrogène, ce vecteur énergétique étant plutôt envisagé pour les courts et moyens courriers
+). La substitution des 6,8 Mt de carburéacteur consommées en France en 2018
+[11]
+nécessiterait 2,5 MtH2, dont la production mobiliserait de l’ordre de 11 réacteurs nucléaires EPR ou 19 000 éoliennes de 3 MW (en ne prenant en compte que la production d’hydrogène, c’est-à-dire sans les étapes de compression, transport et stockage).
+Autre exemple, les poids lourds ont consommé 6 Mt de gasoil en France en 2018
+[12]
+. Décarboner ce trafic à périmètre inchangé (sans réduire la demande) uniquement par de l’hydrogène nécessiterait environ 9 EPR ou 16 000 éoliennes. Ne parlons pas des voitures particulières dont la consommation s’est élevée à 16 Mt de gasoil
+[13]
+et 6,6 Mt d’essence
+[14]
+en 2018…
+Ces calculs d’ordre de grandeur montrent les besoins massifs d’électricité qu’implique la décarbonation de l’hydrogène actuellement consommé en France, ainsi que son extension à de nouveaux usages
+. Comme souvent quand on parle d’énergie, ce constat ne doit pas servir de prétexte à des positions manichéennes
+: que ce soit pour dire que l’hydrogène n’a aucun avenir du fait de ses besoins électriques (on en consomme déjà et on en aura besoin pour décarboner de nouveaux usages) ou qu’il suffit de construire plusieurs dizaines d’EPR ou dizaines de milliers d’éoliennes dédiés à la production d’hydrogène (ce qui n’est pas réaliste, surtout en considérant qu’on va déjà devoir accélérer fortement les investissements pour renouveler le parc électrogène actuel).
+L’hydrogène sera nécessaire pour réduire notre consommation de pétrole dans certains secteurs mais les besoins électriques qu’il induit imposent à la fois :
+de le réserver aux usages qu’il est le seul à pouvoir décarboner : industrie et mobilité lourde (c’est-à-dire que les voitures doivent par exemple être exclues de son champ d’application, vu qu’elles peuvent être électrifiées par batteries),
+de revoir ces usages à la baisse (notamment réduire le trafic aérien),
+d’augmenter fortement et rapidement le parc de production d’électricité bas carbone.
+En résumé, il faudra faire preuve de sobriété et concentrer l’usage de l’hydrogène dans les applications essentielles et non décarbonables autrement.
+L’hydrogène restera un vecteur énergétique onéreux
+L’hydrogène produit par électrolyse sera nécessairement plus cher que l’hydrogène produit à partir de combustibles fossiles et que l’usage direct de combustibles fossiles à leur coût actuel. Ce surcoût est pérenne car il a une origine physique. Tout changement de vecteur énergétique (chaleur -> électricité ; électricité -> hydrogène ; méthane -> hydrogène…) induit des pertes énergétiques et nécessite des infrastructures. Par exemple, pour convertir du gaz en électricité il faut une centrale à gaz (infrastructure qui n’est pas gratuite), dont le rendement est d’une soixantaine de pour cent (c’est-à-dire qu’il y a entre 30 et 40% de pertes).
+La production d’hydrogène par électrolyse nécessitant deux changements de vecteur énergétique – avec l’électricité en vecteur intermédiaire – elle sera nécessairement plus chère que l’hydrogène issu de vaporeformage de méthane et
+a fortiori
+que les combustibles fossiles utilisés directement.
+Notons que l’imposition d’un prix suffisamment élevé des émissions de CO2 et/ou l’augmentation du prix des combustibles fossiles peut éventuellement rendre la production par électrolyse plus rentable. Cependant, dans cette hypothèse, l’inversion de compétitivité en faveur de l’hydrogène électrolytique s’opérerait par une hausse du coût des filières fossiles. Ça ne change donc pas le fait que le coût d’accès à l’énergie augmenterait par rapport à aujourd’hui.
+Du fait des pertes à la production, la synthèse d’hydrogène par électrolyse et la promotion de son usage ne font sens sur le plan climatique que dans les pays où le bouquet électrique est déjà bas carbone. Si tel n’est pas le cas, il est plus pertinent économiquement et écologiquement de décarboner en premier la production électrique. Cela signifie que si la plupart des pays européens (dont l’Allemagne) vont se lancer dans le marché de l’hydrogène afin de ne pas se laisser distancer par d’autres, ce positionnement ne fait réellement sens pour le climat que dans un nombre limité d’États (France, Norvège, Suède, Suisse…).
+Réduire les coûts de l’hydrogène électrolytique
+Afin que l’hydrogène électrolytique puisse jouer un rôle sensible face à l’objectif de neutralité carbone, de ce qui précède on comprendra aussi qu’il est essentiel de réduire au maximum son déficit de compétitivité par rapport aux combustibles fossiles. Deux leviers permettent cela.
+Le premier moyen de réduire le coût de l’hydrogène bas carbone est d’employer les électrolyseurs avec de hauts facteurs de charge
+[15]
+. Plus la production d’hydrogène par électrolyseur est élevée et plus les coûts fixes seront répartis sur une vaste production. Ce premier constat est incompatible avec l’idée de produire de l’hydrogène à partir de seuls surplus marginaux d’électricité éolienne et solaire, sauf à disposer de surcapacités dont une partie de la production ne serait pas valorisable et devrait être écrêtée. En effet, la contrainte sur le facteur de charge des électrolyseurs va limiter la puissance d’électrolyse installée. Autrement dit, on ne va pas installer un électrolyseur qui ne fonctionnera que quelques heures dans l’année pour capter les hyperpointes de production. Certains surplus de production électrique resteront quoi qu’il arrive non valorisables, et ils seront d’autant plus élevés que la production électrique sera non pilotable et synchronisée (i.e tout produit plus ou moins en même temps).
+Le second levier est de réduire le coût de production de l’électricité. Ce coût ne doit pas être confondu – comme c’est souvent le cas – avec le prix de l’électricité sur les marchés (qui peut être faible, nul voire négatif). En effet, produire de l’électricité n’est jamais gratuit. L’écart entre le coût de production et la valeur marchande de l’électricité est compensé par le contribuable,
+via
+des compléments de rémunération (pour les énergies renouvelables) et un marché de capacité (pour les énergies pilotables). Ainsi, minimiser les coûts marchands ne suffit pas, c’est le coût général d’accès à l’énergie pour le consommateur-contribuable qui doit être minimisé.
+Figure 3 – Evolution des coûts de production de l’hydrogène en fonction du facteur de charge, du prix de l’électricité et du coût des électrolyseurs (source : IEA 2019)
+Pour ces raisons, l’avenir de la filière hydrogène et sa contribution à la décarbonation des secteurs de l’industrie et de la mobilité lourde est notamment conditionné, pour les pays ne disposant pas d’importantes capacités hydroélectriques et éoliennes en mer (dont le facteur de charge est supérieur et le coût inférieur à l’éolien à terre), à l’acceptation de l’énergie nucléaire comme l’un des moyens d’alimenter les électrolyseurs. Sans cela, les faibles facteurs de charge rendront l’hydrogène onéreux, ce qui en limitera le potentiel.
+Enfin, au-delà de la seule question du coût, l’importance des besoins futurs en hydrogène nécessite de pouvoir en maximiser la production, et notamment par rapport au nombre d’électrolyseurs installés. Là encore, cet aspect pousse à chercher à les exploiter avec un facteur de charge élevé.
+Conclusion
+La question de l’hydrogène et de ses dérivés illustre bien la nécessité de traiter les questions énergétiques par une approche qui ne soit pas manichéenne. L’hydrogène n’est pas une solution miraculeuse qui nous permettra de décarboner tous nos usages énergétiques à un coût comparable au coût actuel de l’énergie. C’est pourtant un vecteur énergétique qui sera nécessaire pour décarboner certaines activités difficilement décarbonables autrement.
+Cette question illustre également un autre paramètre trop souvent occulté : la transition énergétique ne conduira pas à réduire le coût de l’énergie. Elle ne permettra même pas de le maintenir à son niveau actuel. Ce résultat est d’ailleurs assez intuitif : si tel était le cas et qu’il était économiquement rentable de décarboner nos économies, nous l’aurions déjà fait.
+Atteindre la neutralité carbone
+présentera des surcoûts. Certains seront temporaires (le temps de s’équiper, le temps aussi de monter en compétence dans certains domaines et de faire baisser les coûts), d’autres seront permanents du fait de systèmes énergétiques globalement moins efficaces que ceux qui reposaient sur les combustibles fossiles aisément accessibles, énergétiquement denses et naturellement stockables.Ces constats dépassent largement le seul sujet de l’hydrogène. Pour maximiser nos chances d’atteindre la neutralité carbone, nous devons avoir conscience de ces difficultés et ne pas les aggraver par des stratégies de décarbonation sous-optimales.
+Dans le domaine de l’hydrogène, trois grandes erreurs sont ainsi à éviter. La première serait de surestimer le potentiel de l’hydrogène (en volume disponible, en compétitivité et en vitesse de déploiement). La seconde serait de chercher à limiter sa production aux seules énergies renouvelables, ce qui conduirait à des coûts élevés et limiterait la production par électrolyseur. Enfin, la troisième serait de confondre l’objectif de décarbonation de l’industrie et de la mobilité lourde (imposant de réduire au maximum le déficit de compétitivité de l’hydrogène électrolytique par rapport à l’hydrogène d’origine fossile) avec celui de disposer d’un bouquet électrique reposant principalement sur l’éolien et le solaire dans lequel l’hydrogène servirait de stockage pour pallier leur intermittence (ce qui conduirait à un hydrogène peu compétitif).
+Comme souvent quand on parle d’énergie, la technique, la stratégie de long terme, les aspects économiques et sociaux s’entremêlent en un bouquet complexe. Il est essentiel d’en avoir conscience et de les prendre correctement en compte, de façon lucide et sans
+a priori
+afin d’optimiser le chemin menant à la neutralité carbone.
+[1]
+Gouvernement français,
+Stratégie nationale pour le développement de l’hydrogène décarboné en France
+, septembre 2020,
+https://www.ecologie.gouv.fr/sites/default/files/DP%20-%20Strat%C3%A9gie%20nationale%20pour%20le%20d%C3%A9veloppement%20de%20l%27hydrog%C3%A8ne%20d%C3%A9carbon%C3%A9%20en%20France.pdf
+[2]
+Gouvernement fédéral allemand,
+The National Hydrogen Strategy
+, juin 2020,
+https://www.bmwi.de/Redaktion/EN/Publikationen/Energie/the-national-hydrogen-strategy.pdf?__blob=publicationFile&v=6
+[3]
+Gouvernement espagnol,
+Hoja de Ruta del Hidrógeno: una apuesta por el hidrógeno renovable
+, octobre 20,
+https://www.miteco.gob.es/es/prensa/201006nphojaderutah2_tcm30-513813.pdf
+[4]
+Commission européenne,
+A hydrogen strategy for a climate-neutral Europe
+, juillet 2020
+[5]
+Gouvernement japonais,
+Basic Hydrogen Strategy
+, décembre 2017
+[6]
+Gouvernement australien,
+Australia’s national hydrogen strategy
+, 2019
+[7]
+RTE, La transition vers un hydrogène bas carbone, janvier 2020, page 14
+[8]
+IEA, The Future of Hydrogen, 2019, page 45
+[9]
+Calculé à partir des bilans électriques 2019 et 2020 de RTE
+[10]
+Notons que le second cas nécessiterait une plus grande puissance d’électrolyse qui fonctionnerait avec un facteur de charge plus faible, du fait de la plus variabilité de la puissance éolienne.
+[11]
+INSEE,
+https://www.insee.fr/fr/statistiques/2119673
+[12]
+Statista,
+https://fr.statista.com/statistiques/487045/consommation-gazole-poids-lourds-francais-france/
+[13]
+Statista,
+https://fr.statista.com/statistiques/486956/gazole-essence-voitures-particulieres-france/
+[14]
+Statista,
+https://fr.statista.com/statistiques/486845/consommation-essence-voitures-particulieres-france/
+[15]
+IEA,
+The Future of Hydrogen, juin 2019, page 47
+
+
+
+Thomas Wagner
+
+

@@ -1,0 +1,15 @@
+:root {
+  /* Colors */
+  --secondary-dark: #131419;
+  --secondary-medium-dark: #323438;
+  --secondary: #f4f4f4;
+  --secondary-light: #fbfbfb;
+  --primary-dark: #163a30;
+  --primary-medium-dark: #355546;
+  --primary: #57d792;
+  --primary-light: #91f7c0;
+
+  /* Spacing */
+  --spacing: 4px;
+  --spacing-2x: calc(var(--spacing) * 2);
+}

@@ -1,8 +1,0 @@
-jupyterlab
-ipython
-ipykernel
-beautifulsoup4
-haystack-ai
-sentence-transformers
-accelerate
-python-dotenv

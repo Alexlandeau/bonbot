@@ -1,0 +1,142 @@
+On entend souvent dire que l’avion est pire que le train pour le climat… mais quel avion ? Quel(s) train(s) ? Et le remplissage ??? Quel taux de remplissage d’un train pour avoir les mêmes émissions de CO2 que l’avion ?
+Pas de panique.
+Laydgeur
+vous l’explique en long, en large et en travers. C’est parti !
+Round #1 : Toulouse-Paris en TGV
+En guise d’échauffement, on va prendre pour commencer la ligne aérienne la plus fréquentée de France : Toulouse-Paris, qui a vu passer plus de 3,2 millions de passagers en 2019.
+Trafic aérien en France métropolitaine.
+Source :
+statistiques de la DGAC
+Pour les émissions de l’avion, le
+calculateur de la DGAC
+pour l’année 2020 donne les valeurs suivantes :
+Toulouse-Orly : 81,4 kg d’équivalent CO2 par passager (distance 571 km)
+Toulouse-CDG : 76,5 kg d’équivalent CO2 par passager (605 km)
+On prend la moyenne des deux en arrondissant : 79 kg d’équivalent CO2 par passager.
+Émissions de gaz à effet de serre d’un vol Toulouse-Paris
+Source :
+Eco-calculateur DGAC
+Pour le train, les
+données de la SNCF
+pour l’année 2020 indiquent 1,374 kg d’équivalent CO2 par passager (distance 793 km), qu’on arrondit à 1,4 kg pour plus de lisibilité.
+Source :
+Open data SNCF
+Le résultat de ce calcul est simple : 79 / 1,4 = 56. Cela signifie que pour ce trajet Toulouse-Paris, le passager en avion émet 56 fois plus de CO2 que celui en TGV.
+✈️ = 🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅🚅
+Ainsi, pour être équivalent aux émissions de l’avion, le nombre de passagers du TGV devrait être 56 fois plus faible.
+Combien ça fait de personnes ?
+Les chiffres détaillés par ligne ne sont pas disponibles, donc nous utiliserons les moyennes nationales. L’autorité de régulation des transports nous dit que la capacité moyenne d’emport des TGV est de 684 places en 2018 (derniers chiffres disponibles à la rédaction de cet article), avec un taux de remplissage moyen de 67%, ce qui fait environ 458 passagers effectifs par train.
+Taux de remplissage des trains en France de 2015 à 2018.
+Source :
+Autorité de régulation des transports
+Donc pour être aussi polluant que l’avion, un TGV devrait transporter en moyenne 8 passagers (458 / 56), soit environ…
+1 par voiture
+(une rame TGV comporte 8 voitures).
+L’avion est renvoyé dans les cordes, très nette domination du train, l’arbitre siffle la fin du 1er round. Mais le TGV n’est pas le seul type de train à rouler sur les rails français…
+Round #2 : Marseille-Toulouse en Intercités
+Pour les distances typiques de l’aviation court courrier (quelques centaines de kilomètres), le type de train qui la concurrence quand il n’y a pas de TGV sont les lignes Intercités (ex-Corail).
+Train Regiolis (
+automotrice B85000
+) circulant sur une ligne Intercités
+La liaison choisie ici dans ce deuxième exemple est Marseille-Toulouse. Voici ce que ça donne pour l’avion, toujours avec le calculateur d’émissions de la DGAC : 62,1 kg d’équivalent CO2 (distance 311 km).
+Source :
+Eco-calculateur DGAC
+Du côté du rail, en train Intercités, le site de réservation
+OuiSNCF
+indique 2,2 kg d’équivalent CO2 par passager pour un trajet effectué en 2021. Donc par rapport au trajet TGV précédent, c’est un peu plus d’émissions pour une distance plus courte.
+Émissions de CO2 d’un trajet Marseille-Toulouse en train
+Source :
+OuiSNCF
+Donc sur ce trajet le passager en avion émet 28 fois plus de CO2 que celui en train (62,1 / 2,2).
+✈️ = 🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈🚈
+Qu’est-ce que ça donne un train Intercités avec 28 fois moins de passagers ?
+On reprend le graphique de l’Autorité de régulation des transports : les trains Intercités ont une capacité d’emport moyenne de 582 places avec un taux de remplissage actuel de 40% (chiffres 2018), ce qui fait en moyenne 233 passagers par train.
+Source :
+Autorité de régulation des transports
+Donc pour être autant polluant qu’un avion, le train Intercités devrait embarquer environ 8 passagers (233 / 28). Selon les configurations du train, ça fait entre 1 et 2 personnes par voiture…
+Fin du 2ème round.
+Round #3 : et le TER (Transport Express Régional) alors ?
+Pour terminer le match, prenons l’hypothèse que les deux voyages précédents (Toulouse-Paris et Marseille-Toulouse) soient fait intégralement en TER, qui est le type le moins propre en termes d’émissions de CO2.
+C’est une hypothèse théorique, faite uniquement pour pousser le raisonnement de cet article jusqu’au bout, car
+les TER sont des lignes régionales
+(d’où leur nom), desservent de nombreuses gares locales et régionales, et ne sont donc pas en concurrence avec les avions, mais avec les voitures et les bus.
+Voici les facteurs d’émissions par passager-kilomètre des différents types de trajets pour 2020. Les TER sont largement au dessus des autres, à cause des locomotives diesels sur les lignes non électrifiées qui plombent la moyenne (ainsi que des bus qui font partie de l’offre TER).
+Source :
+OuiSNCF
+En moyenne, le TER est donc 14 fois plus émetteur de CO2 que le TGV, et 4,5 fois plus que l’Intercités. Mais son taux de remplissage est aussi plus faible (et oui encore le même graphique) : 26%, ce qui fait en moyenne 84 passagers effectifs par train.
+Source :
+Autorité de régulation des transports
+Ce qui donne en hypothèse TER :
+Faire Toulouse-Paris émettrait environ 20 kg d’équivalent CO2 par passager (4 fois moins que l’avion)
+Faire Marseille-Toulouse émettrait environ 10 kg d’équivalent CO2 par passager (6 fois moins que l’avion)
+Donc un hypothétique TER aussi polluant que l’avion devrait transporter ~21 passagers sur le Toulouse-Paris, et ~14 sur le Marseille-Toulouse.
+Soit l’équivalent en capacité de ce minuscule autorail, en occupant 1 siège sur 3 et en laissant vide les strapontins.
+Autorail X73500
+, d’une capacité de 61 places + 17 strapontins
+Fin du 3ème round. L’avion ne se relève pas. Train vainqueur par KO.
+Pourquoi le train est-il imbattable ?
+Vous l’aurez compris avec ces trois exemples, quelque soit le type de train et les lignes empruntées, il est imbattable en émissions de CO2 par rapport à l’avion, ou même par rapport à la voiture (les émissions d’un Toulouse-Paris en TGV (soit 1,4 kg d’équivalent CO2 pour 793 km) correspondent à un parcours de seulement 10 km en voiture type berline). Pourquoi ?
+L’électricité
+Premier point le plus important, le mix électrique en France (nucléaire + hydraulique) est l’un des plus bas carbone au monde, avec la Norvège, la Suisse et la Suède.
+Donc n’importe quel véhicule électrique français sera extrêmement performant sur les émissions de CO2.
+Capture d’écran du site
+Electricity Map
+montrant les émissions de CO2 en temps réel des pays européens.
+La France est l’un des rares à être vert en permanence, ce qui signifie une électricité très bas carbone.
+Alors que l’avion lui, il brule des milliers et des milliers de litres de kérosène fossile par trajet, ce qui rejette énormément de CO2, et également tout un tas d’autres polluants qui ont eux aussi un impact sur le climat (mais qui ne sont pas comptabilisés dans ces calculs,
+le bilan réel de l’avion
+est entre 2 et 3 fois pire).
+Source de l’image :
+Eurocontrol
+Capacité d’emport
+C’est vraiment un point très important quand on compare différents moyens de se déplacer : combien de passagers peuvent-ils transporter à la fois ?
+Une rame
+TGV simple niveau
+peut embarquer facilement plus de 350 passagers, alors que pour un
+avion court courrier type A320
+s’il y a 200 personnes dedans c’est le bout du monde (en plus d’être serrés comme des sardines).
+Une double rame de
+TGV duplex
+c’est 1000 places, et 1250 en configuration
+Ouigo
+. Impensable pour un avion, l’
+A380
+comporte entre 400 et 540 sièges, et au maximum il pourrait théoriquement monter à 850 sièges en configuration monoclasse, mais cette dernière n’a jamais été commercialisée.
+TGV duplex double rame en configuration Ouigo
+La propulsion
+Un avion doit accélérer comme un
+tabanard
+ses
+70 tonnes
+avec des turboréacteurs
+jusqu’à 800-900 km/h
+et les
+monter à 9000-10000m
+pour être le plus efficace possible (moins de frottements en altitude). La dépense d’énergie est gigantesque.
+Alors qu’un train roule,
+ce qui est très efficace
+de base (et encore plus s’il est électrifié car le
+moteur électrique possède un très bon rendement
+), et d’autant plus avec
+l’excellente liaison rail-roue
+(déformation minimale, frottement très faible). Et puis le tracé des lignes est optimisé : peu de dénivelés, virages relevés, … il faut juste pousser.
+Conclusion
+En fait le vrai tour de force des compagnies qui font ces vols court-courrier, ce n’est pas d’être aussi polluant que des TGV de 8 personnes, c’est de continuer à pouvoir le faire avec le soutien actif d’un ex-ministre de l’écologie :
+Source :
+Compte Twitter @Senat
+Nous voici à la fin de l’article. Il y a maintenant trois possibilités.
+Soit vous étiez déjà convaincu par le train, et il y a de fortes chances pour que vous le soyez toujours 🙂
+Soit vous n’étiez pas convaincu, et vous l’êtes devenu en lisant cet article. Dans ce cas bravo à vous pour avoir changé d’avis ! Vous trouverez ici de quoi ne pas regretter votre décision :
+Pourquoi arrêter l’avion ne devrait plus être un débat
+Soit vous n’êtes toujours pas convaincu, car « oui mais là vous ne comptez pas les émissions de CO2 causées par la fabrication des rames et la construction des lignes »
+Pas de panique si vous êtes dans ce dernier cas, vous pouvez
+lire le match retour ici
+!!
+Crédit photo :
+@ConductriceRer
+
+
+
+Thomas Wagner
+
+

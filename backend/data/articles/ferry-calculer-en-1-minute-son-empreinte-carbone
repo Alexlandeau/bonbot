@@ -1,0 +1,96 @@
+L’intérêt pour les voyages en ferry est de plus en plus marqué, notamment pour les personnes qui souhaitent une
+alternative à l’avion pour réduire leur empreinte carbone
+.
+Problème : il n’existe aucune estimation de son empreinte climat au kilomètre qui prenne en compte la diversité des options d’un billet (passager en voiture ou non, cabine, siège, équipement loisir, etc.). C’est le cas en France (Ademe), à l’international, y compris dans la littérature scientifique.
+Voici donc un nouveau calculateur d’empreinte carbone du ferry, gratuit et open source. Vous pourrez ainsi connaître l’impact de votre trajet aller-retour pour votre voyage, et estimer en quelques clics l’empreinte carbone de votre voyage en ferry. L’objectif est de voyager en toute connaissance de cause.
+Bien sûr, si vous vous demandez ce qu’est une empreinte carbone et pourquoi vous devriez connaître la vôtre, je vous invite à lire
+cet article dédié
+. Même chose si vous ne connaissez pas
+les conséquences du trafic aérien sur le changement climatique
+et pourquoi le ferry
+pourrait
+être une bonne alternative.
+Le simulateur ferry
+Voici le simulateur grâce auquel vous obtiendrez l’empreinte carbone de votre trajet en quelques clics.
+ATTENTION :
+ce travail a été difficile à réaliser, compte tenu du manque de transparence des entreprises propriétaires de ferries. Il existe des obligations légales (françaises et européennes), mais qui sont loin d’être assez précises et solides. Nous avons contacté des professionnels, fait plusieurs appels sur les réseaux sociaux, et n’avons eu que très peu de retours.
+Vous souhaitez que ce simulateur soit de meilleure qualité ? Aidez-nous !
+Contactez Maël Thomas
+, le développeur du simulateur.
+
+
+Vous pouvez aussi ouvrir directement le
+calculateur ferry
+dans un nouvel onglet
+Quels critères prendre en compte pour un trajet en ferry ?
+Voici les critères pris en compte pour votre trajet en ferry. De manière générale, plus vous profitez des options du ferry, plus votre voyage émettra. Explications :
+Combien de personnes
+: cette variable est importante pour ensuite attribuer les émissions et les diviser si besoin. Par exemple, le fait d’avoir une voiture seul(e) a bien plus d’impact que de la partager à 4 personnes.
+Passager avec voiture
+: avoir une voiture à bord augmente de façon significative votre empreinte.
+Equipements loisirs du bateau
+: si vous bénéficiez du restaurant, du bar, de la piscine etc, cela peut aller jusqu’à doubler votre empreinte carbone. Certes, ils seront là même si vous n’en profitez pas, mais s’ils ne sont pas utilisés à moyen terme, les compagnies adapteront leur offre (un peu similaire à “
+mais de toute façon l’avion il partira que je sois dedans ou pas
+!”).
+Passager en cabine ou en siège
+: si vous prenez une cabine à moitié remplie, cela peut s’avérer pire que de prendre un siège (partage de l’empreinte carbone). Prendre une cabine seul plutôt qu’un siège peut doubler voire tripler votre empreinte carbone (le confort vient rarement sans conséquences).
+La durée de votre traversée (la vitesse du ferry)
+. La vitesse du bateau est une information capitale pour le calcul de l’empreinte, car elle fait évoluer la consommation au cube. Plus un navire va vite, plus il génère de grosses vagues et consomme de l’énergie pour cela. NB : en réservant votre ferry, vous avez parfois le choix entre des bateaux de jour plus rapides, ou de nuit plus lents.
+L’un des cas les plus émetteurs de CO2 : ferry avec cabine luxe
+Corsica-ferries
+Quelles sont les limites du calculateur ?
+L’objectif de ce calculateur est d’avoir un ordre de grandeur. Il est difficile d’avoir un résultat parfait à la virgule près, notamment à cause de ces limites. Comme pour tout calcul d’empreinte carbone, il faut faire des choix dans la méthodologie.
+Savoir combien un ferry émet de gaz à effet de serre n’est pas le plus difficile. Pour l’ordre de grandeur, il suffit de multiplier sa consommation de fioul par le ou les facteurs d’émissions CO2eq du fioul et autres carburants utilisés. La difficulté réside dans l’attribution : aux passagers à pied, avec voiture, avec loisirs et accès au lounge VIP, au transport de marchandises, au remplissage du bateau, etc.
+D’abord privilégiée, la méthode d’attribution de l’empreinte via le poids des services consommés à bord a été abandonnée, pour privilégier une meilleure méthode qui serait celle en volume.
+La norme EN 16258
+, déjà datée, autorise les deux méthodes, mais note l’extrême divergence des deux méthodes. La future
+norme ISO 14083
+, en cours de publication, devrait être disponible d’ici fin 2022.
+Détails concernant le calcul pour l’empreinte carbone du ferry :
+Le modèle est basé sur un ferry de référence, le
+Mega Express Four
+. Pour plus de précisions, il faudrait un résultat personnalisé selon le modèle de ferry.
+Selon les critères retenus,
+des scientifiques ont mis en évidence une grande variabilité s’étendant sur cinq ordres de grandeur
+, alors que la taille des ferries varie de moins de deux.
+Nous limitons ici notre travail à l’étude des GES, pas aux SOx, ni NOx etc.
+Nombre de sièges
+et sécurité : le nombre de sièges et donc de passagers varie selon les ferries, quel serait le remplissage maximum sans le luxe/confort disponible ?
+Un ferry transporte des passagers, des services, des véhicules, mais aussi du fret (dont du fret frigorifié), qui n’est évidemment pas attribué au passager.
+De nombreux sites internet annoncent qu’émettre directement sur la mer amplifie le
+phénomène d’acidification
+. Il n’y a pourtant aucune source scientifique qui puisse laisser penser cela.
+Photo du ferry Mega Express Four
+Une note de méthodologie est disponible
+ici
+.  En pleine urgence écologique, il est urgent que la réglementation se mette à jour et que les compagnies de ferry jouent la transparence.
+NB : le simulateur est open source, les données sont publiques afin de pouvoir profiter des
+différents retours et d’améliorer le simulateur
+.
+Laissez un commentaire ou contactez
+Maël Thomas
+directement. Les compagnies de ferries ont une carte à jouer pour réduire très significativement l’empreinte d’un voyage !
+Calculateur empreinte carbone du ferry : le mot de la fin
+Tout le monde devrait connaître l’impact de ses voyages, qu’ils soient en ferry ou en avion, et pouvoir comprendre cet impact. C’est l’objectif de ce calculateur. Les résultats affichés, qui se veulent informatifs, doivent permettre à toutes et tous de prendre des décisions responsables.
+L’été 2022 a été une catastrophe pour les écosystèmes, certaines parties de la Méditerranée ont connu une température supérieure à +6°C. Si cela peut vous sembler agréable à la baignade, sachez aussi que cela équivaut à des feux de forêt sous-marins, la faune et la flore mourant comme si elles avaient été brûlées. Dans la mesure où
+environ la moitié des émissions totales des ferries en Europe
+a lieu en Méditerranée, des mesures urgentes et radicales doivent être prises pour ralentir ces catastrophes.
+Comme tout moyen de transport, le ferry pollue. Si le changement climatique se fait de plus en plus ressentir et si la biodiversité est en chute libre, il est indispensable de collectivement repenser notre rapport au temps et notre façon de voyager.
+Chaque tonne participe au réchauffement climatique
+. Chaque tonne compte.
+Pour aller plus loin :
+Vous pouvez comparer votre résultat avec
+ce simulateur d’un trajet en avion en 3 clics
+. L’idéal serait d’avoir un simulateur qui fasse la comparaison directement, mais pour cela, il faudrait probablement un financement pour le développement. Voici d’autres liens utiles :
+C’est pas sorcier -IL ÉTAIT UN … très gros paquebot !
+Towards Least-CO2 Ferry Routes in the Adriatic Sea
+Theoretical Technical Efficiency Indexes
+Eco Island Ferry – Comparative LCA of island ferry with carbon fibre composite based and steel based structures
+Deterministic and stochastic carbon footprint of intermodal ferry and truck freight transport across Scandinavian routes
+Vue du ferry, port de Marseille
+
+
+
+Thomas Wagner
+
+
