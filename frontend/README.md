@@ -42,3 +42,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://vitejs.dev/guide/static-deploy.html) for more information.
+
+
+## Run bonbot
+
+App is available at http://localhost:5173/bonbot

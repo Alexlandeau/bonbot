@@ -1,7 +1,7 @@
 FROM pytorch/pytorch:2.1.2-cuda12.1-cudnn8-runtime
 
 RUN mkdir -p /app \
-    && adduser --disabled-login app_user \
+    && useradd app_user \
     && chown -R app_user /app
 
 USER app_user

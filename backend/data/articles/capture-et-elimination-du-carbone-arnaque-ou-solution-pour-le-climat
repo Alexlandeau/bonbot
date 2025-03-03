@@ -1,0 +1,386 @@
+
+
+Getting your
+Trinity Audio
+player ready...
+Limiter le réchauffement climatique et ses impacts nécessite d’atteindre la
+“neutralité carbone”
+, le moment où les émissions humaines de dioxyde de carbone (CO2, principal gaz à effet de serre, nous n’aborderons pas les autres gaz dans cet article) seront
+compensées
+par des retraits équivalents de l’atmosphère avec des actions humaines directes.
+Illustration très simplifiée de la neutralité carbone. Les émissions d’un côté, la compensation de l’autre pour trouver un équilibre.
+Source
+La majorité des efforts doivent indiscutablement porter sur la réduction des “émissions positives” (ou “brutes”), celles dont on parle tout le temps. Les “émissions négatives”,
+moins connues
+, offrent aussi un potentiel important … mais plus incertain et âprement débattu.
+Dans cet article nous reviendrons sur leurs principes, leurs enjeux et les principaux débats concernés.
+Sommaire
+
+Toggle
+Émissions et retraits dans le cycle du carbone
+Distinguer élimination et capture carbone
+Les trois rôles des émissions négatives
+Les principales méthodes d’élimination du carbone
+1/ Milieux naturels et reforestation/afforestation
+2/ Altération, alcalinisation et fertilisation
+3/ La Bioénergie avec capture du carbone (BECCS)
+4/ La Capture dans l’air (DACCS)
+5/ Le stockage géologique
+Les émissions négatives aujourd’hui et leur potentiel
+Les émissions négatives dans les modèles et scénarios
+Qui décide et qui paye ?
+Élimination du carbone et justice climatique
+Qui des entreprises et de la gouvernance ?
+L’élimination du carbone en France ?
+L’élimination du carbone aux dépens de la décarbonation ?
+Une excuse pour repousser les efforts de décarbonation ?
+Émissions et retraits dans le cycle du carbone
+Il faut compter sur des retraits par l’humanité si l’on veut atteindre la neutralité carbone car on n’arrivera probablement pas à supprimer 100% des émissions de certains secteurs (par exemple aviation, agriculture, industrie lourde …). Il faudra donc compenser ces
+émissions résiduelles
+.
+Notons qu’on n’inclut pas dans le périmètre de la neutralité carbone les puits de carbone naturels (forêts et océans) qui agissent sans interaction humaine. S’ils contribuent actuellement à ralentir le réchauffement, à long terme et sans ajout supplémentaire de CO2 dans l’atmosphère, ils sont réglés par le
+cycle du carbone
+et tendront vers un équilibre qui ne compensera jamais 100% des émissions passées.
+Il faudra aussi compter sur ces retraits par l’humanité pour refroidir le climat, notamment pour
+réduire les risques
+si l’on dépasse certains seuils comme 1.5°C,
+ce qui est très probable
+en l’absence d’efforts supplémentaires importants.
+Trajectoire d’émissions positives, négatives et puits. Source :
+Glen Peters
+d’après
+Rockström et al. 2017
+Notons qu’émissions et retraits n’ont pas exactement un effet symétrique
+selon les volumes impliqués et leur temporalité
+. On peut néanmoins considérer
+comme bonne approximation pour les ordres de grandeurs habituels
+qu’une molécule de CO2 retirée de l’atmosphère a l’effet opposé d’une molécule émise.
+Distinguer élimination et capture carbone
+Nous avons jusqu’ici parlé de retraits de CO2 de l’atmosphère. On regroupe ces procédés sous le nom d’
+élimination
+du carbone, ou
+émissions négatives
+(en Anglais
+CDR
+pour Carbone Dioxide Removal
+).
+Il faut les distinguer de la
+capture
+en un point de carbone qui vient d’être émis (en Anglais
+CCS
+pour Carbon Capture and Storage
+), qui ne retire pas directement du carbone de l’atmosphère mais vient annuler une source d’émissions.
+Élimination et capture ont de nombreuses proximités, notamment la nécessité dans les deux cas de
+stocker durablement le carbone
+. Elles ont néanmoins des usages et des comptabilisations différentes, et ne sont pas interchangeables.
+La capture est toujours liée à sa source d’émissions (généralement la fumée riche en CO2 d’une usine), l’ensemble a ainsi un
+bilan climatique neutre
+.
+L’élimination a un bilan négatif et reste utile dans tous les cas en captant le CO2 dans l’air. C’est donc bien sur elle qu’on doit compter à long terme pour
+refroidir le climat
+.
+Les trois rôles des émissions négatives
+Ainsi, l’élimination a trois rôles complémentaires dans les trajectoires climatiques :
+à court terme, participer à infléchir les émissions nettes,
+à moyen terme, compenser les émissions résiduelles et atteindre la neutralité carbone,
+à long terme, réduire progressivement le réchauffement en enlevant du carbone de l’atmosphère.
+Pour toutes ces raisons, on a absolument besoin d’élimination pour minimiser le risque climatique dans tous les cas de figure, et tous les scénarios d’émissions y font plus ou moins appel.
+La capture est utile uniquement dans la mesure où elle permet de réduire effectivement les émissions.
+Source :
+https://www.ipcc.ch/sr15/chapter/chapter-2/2-3/2-3-2/2-3-2-1/figure-2-5/
+
+Pourquoi ne pas compenser 100% des émissions avec des émissions négatives ?
+Pourquoi ne pas compenser 100% des émissions avec des émissions négatives ? Ou pourquoi ne voudrait-on pas au contraire supprimer 100% des émissions ? C’est un choix de société de garder certaines technologies qui n’ont pas d’alternative décarbonée, et un rapport coût-bénéfice entre décarbonation et émissions négatives.
+Se pose en particulier la question des secteurs “
+difficiles à réduire
+” pour lesquels il n’existe aujourd’hui pas de solution bas-carbone abordable, notamment les industries lourdes, l’aviation, le transport maritime ou l’agriculture. Pour mieux comprendre ces compromis (
+qui rejoignent le débat sur les “2 tonnes”
+) il faut se pencher sur ces technologies, leurs intérêts et leurs limites.
+Les principales méthodes d’élimination du carbone
+On compte dans les émissions négatives de nombreuses méthodes et technologies très variées. Elles peuvent être classées selon le milieu impliqué (terres ou océans), la technologie de capture (biologique, géologique ou chimique), le moyen de stockage et sa durabilité, ou leur maturité technologique.
+Source :
+https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-12/#12.3
+Notons que certaines technologies d’émissions négatives ont souvent été classées autrefois dans la géoingénierie.
+Dans son dernier rapport, le GIEC a choisi de ne plus utiliser ce terme controversé en tant que catégorie et de considérer séparément les techniques d’élimination et capture du carbone (que nous traitons ici) et celles de contrôle du rayonnement solaire (qui n’ont pas d’effet direct sur le carbone, et
+posent beaucoup plus de risques
+).
+1/ Milieux naturels et reforestation/afforestation
+Le moyen le plus simple et naturel pour éliminer du carbone est de restaurer des milieux naturels qui en stockent en quantité … en particulier les forêts !
+La grande majorité
+des émissions négatives aujourd’hui consiste en des projets de reforestation ou d’afforestation (lorsqu’il s’agit de planter de nouvelles zones). Parmi les autres zones naturelles les plus intéressantes on trouve aussi les marais, les tourbières et certaines zones côtières. Les cultures peuvent être converties à l’agroforesterie.
+Crédit : Jonathan Guyot
+Ces méthodes sont mûres et bien maîtrisées, avec des coûts réduits, mais on en connaît aussi bien
+les nombreuses limites
+, notamment :
+leur efficacité a été très souvent surestimée
+,
+parfois de manière grossière
+: le carbone retiré doit bien résulter de l’action humaine et être “additionnel”, c’est-à-dire qu’il n’aurait pas eu lieu sans le projet,
+elle va dépendre de la santé future de ces milieux, qui peuvent être dégradés notamment par le réchauffement climatique,
+comme on le constate aujourd’hui pour les puits naturels
+et souvent
+vulnérables aux feux
+,
+les forêts peuvent prendre beaucoup d’espace,
+ce qui limite leur potentiel
+,
+ces opérations peuvent être selon leurs conditions
+soit positives soit négatives pour la biodiversité
+,
+elles peuvent aussi
+entrer en conflit avec les besoins des populations locales
+,
+une forêt à maturité n’absorbe plus vraiment de CO2 (lorsque la concentration atmosphérique est stable). Alternativement, on peut couper le bois et l’utiliser dans des meubles et bâtiments, le carbone sera alors stocké pour quelques décennies à siècles. Mais dans ce cas
+il ne faut pas le compter en double
+et déduire la dégradation du bois déjà utilisé.
+Les sols agricoles ou les pâturages peuvent être optimisés pour stocker plus de carbone. Leur potentiel a été
+revu nettement à la baisse
+par rapport à des premières estimations optimistes. Ils sont souvent comptabilisés en même temps que les forêts dans la catégorie AFOLU (agriculture, forêts et autres usages des terres).
+2/ Altération, alcalinisation et fertilisation
+On peut capter du carbone en accélérant la fixation du CO2 dans des minéraux carbonés, comme le calcaire ou la craie. Cela peut se faire au sol, en disséminant des roches broyées, ce qu’on appelle altération terrestre forcée (
+enhanced weathering
+en Anglais).
+Elles réagiront avec le CO2 dissous dans l’eau de pluie pour former des composés carbonés emportés vers les mers puis sédimentés. Dans l’océan ajouter des minéraux alcalins, tel que de l’olivine broyée, permet d’accélérer l’absorption du CO2 atmosphérique et réduire l’acidification (en Anglais alkalinity enhancement).
+Source :
+http://www2.ggl.ulaval.ca/personnel/bourque/s3/cycle.carbone.html
+
+Enfin on peut accélérer le cycle biologique du carbone dans l’océan en dispersant du fer, de l’azote ou du phosphore qui augmenteront l’absorption de CO2 par le phytoplancton. Cette technique dite de “
+fertilisation
+” pose des risques d’eutrophisation et d’altération des milieux naturels océaniques.
+Toutes ces méthodes sont aujourd’hui au stade expérimental, avec des potentiels, des coûts et des effets indirects mal connus
+. Elles nécessitent aussi des opérations importantes de minage pour obtenir les minéraux nécessaires et peuvent émettre des poussières.
+3/ La Bioénergie avec capture du carbone (BECCS)
+Plusieurs techniques mettent en œuvre un stockage géologique du carbone pour le sortir de son cycle naturel. Le bois ou d’autres végétaux peuvent être brûlés, avec éventuellement une étape en gaz, et le CO2 capté en sortie puis stocké.
+Ce cycle, noté généralement BECCS (Bioenergy with Carbon Capture and Storage) a bien un bilan négatif et est l’une des voies les plus explorées. Vous noterez la proximité technique avec le “CCS” classique en sortie d’usine, la différence et l’intérêt étant que dans ce cas le carbone provient de l’atmosphère plutôt que de ressources fossiles.
+Cette technique a pour principal inconvénient son utilisation importante d’espace. Elle est beaucoup moins compatible avec une biodiversité riche que la reforestation. Elle entre aussi en compétition avec les cultures alimentaires, comme on le constate aujourd’hui
+avec les biocarburants
+.
+Alternativement les mêmes végétaux peuvent être transformés en charbon et enfouis, avec des bénéfices potentiels pour la fertilité des sols.
+4/ La Capture dans l’air (DACCS)
+Enfin, le CO2 peut être retiré directement depuis l’air par des procédés chimiques : DACCS pour Direct Air Carbon Capture and Storage.
+
+Cette méthode demande beaucoup d’énergie, qui évidemment doit être bas carbone si l’on veut que le bilan carbone soit bien négatif. Certaines versions de cette technologie utilisent aussi beaucoup d’eau.
+Aujourd’hui les démonstrateurs sont très chers, autour de 1000$ par tonne de CO2 retirée. Ici aussi la similarité est importante avec les technologies de capture (CCS) mais elle est beaucoup plus difficile physiquement qu’en sortie d’usine, la concentration du CO2 dans l’atmosphère n’étant que 400 parties par million, soit plusieurs milliers de fois plus faible.
+Rejoignez les 40000 abonné(e)s à notre newsletter
+Chaque semaine, nous filtrons le superflu pour vous offrir l’essentiel, fiable et sourcé
+
+
+
+Je m'abonne gratuitement
+
+
+5/ Le stockage géologique
+Le potentiel de toutes ces méthodes dépend de la disponibilité de stockage géologique, qui est
+importante mais mal répartie,souvent offshore et loin des sources d’émissions
+. Il continue à poser
+plusieurs risques
+
+d’ampleur controversée
+: fuites, tremblements de terre, perturbation des nappes phréatiques … En contrepartie, il offre en théorie un stockage à plus long terme que les forêts.
+Alternativement au stockage géologique on peut utiliser les produits, ce qu’on note alors “
+CCU
+” au lieu de “CCS”. Un usage important est par exemple le bois de construction et d’ameublement, mais sa durée de vie est limitée.
+Aujourd’hui la majorité de l’usage hors bois consiste en fait à assister la récupération de pétrole des réservoirs, ce qui
+pourrait en théorie réduire
+le bilan carbone de l’ensemble si le CO2 était capté dans l’atmosphère ou d’autres sources humaines, mais la majorité provient en fait des dépôts fossiles exploités. Il n’est donc pas compté dans les bilans de capture du carbone.
+Les émissions négatives aujourd’hui et leur potentiel
+Ainsi il n’y a pas de technique idéale, sans risque et au potentiel important. Toutes ont des avantages et inconvénients complexes et variables en fonction du contexte local et global, et l’idéal sera probablement un
+panachage de toutes les possibilités
+.
+En 2023 les émissions négatives ont retiré
+2 Gt de CO2 de l’atmosphère,
+soit seulement 5% des
+41 Gt d’émissions
+de CO2, principalement par de la reforestation (et les méthodes dites “naturelles” par opposition aux “nouvelles” qui n’ont contribué qu’à 0,011 Mt..).
+Cette quantité a été stable sur les dernières décennies. Les budgets de recherche et développement et les investissements sont désormais mieux répartis, avec plusieurs centaines de millions de dollars par an notamment pour les BECCS et DACCS.
+Source :
+https://www.stateofcdr.org/
+
+Quant au CCS, il compense seulement
+50 Mt de CO2 par an (sans compter la récupération assistée de pétrole, qui a un bilan négatif), mais avec de nombreux projets à court terme
+. La grande majorité porte en fait sur des processus chimiques qui séparent déjà le CO2, en particulier pour le traitement du méthane (dont les fuites et la combustion ont des bilans bien pires).
+Les autres projets, en particulier pour les centrales électriques et autres industries, sont
+une longue suite d’échecs, de dépassements de budgets et de résultats décevants
+, ce qui fait dire à certain que jusqu’ici
+le CCS a surtout réussi à capturer des subventions
+…
+Le rapport
+State of CDR
+propose une synthèse des technologies d’émissions négatives, de leur maturité et de leur potentiel :
+Source :
+https://www.stateofcdr.org/
+
+Le dernier rapport du GIEC permet de compléter avec des estimations des coûts et potentiels à l’horizon 2030 comparés avec les autres leviers de décarbonation :
+Source :
+https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-7/
+
+Et leur potentiel ?
+On pourrait être optimiste sur leur progrès technologique futur par analogie avec les technologies bas carbone, mais justement il ne faudrait pas prévoir de combler le déploiement insuffisant de technologies prouvées par l’espoir de technologies qui ne le sont pas aujourd’hui.
+Ainsi, étant donnés le faible déploiement, la faible maturité technologique, le potentiel incertain, les coûts et les risques, les émissions négatives n’ont de sens qu’après une réduction importante des émissions et doivent avoir un rôle secondaire et de long terme.
+C’est ce que répètent toute la communauté scientifique du climat et même
+la plupart des participants à l’industrie de la capture et de l’élimination du carbone
+! Par exemple,
+dans le dernier rapport du GIEC
+: “dans le cadre de stratégies ambitieuses d’atténuation à l’échelle nationale ou globale, le CDR peut avoir de nombreux rôles complémentaires mais ne peut pas se substituer à des réductions importantes des émissions”.
+Même au prix très optimiste de 100$ la tonne de CO2 retirée,
+il faudrait 22 000 milliards de dollars
+pour réduire le réchauffement de 0,1°C !
+Les émissions négatives dans les modèles et scénarios
+Ainsi, il est critique de trouver le bon dosage et le bon calendrier pour bénéficier de l’élimination du carbone à long terme, encourager ses progrès et accompagner sa montée en charge au bon rythme, sans néanmoins compter dessus pour remplacer les réductions d’émissions à court terme.
+C’est le rôle des
+modèles
+. Enfin, en théorie, car la plupart des émissions négatives ne sont pas assez mûres pour être modélisées. Et pour celles qui le sont (reforestation, DACCS et BECCS dans une majorité des modèles) les résultats sont particulièrement divergents (ici dans les scénarios AR6 limitant le réchauffement à 2°C) :
+Source : AR6 WG3
+https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-12/
+Tous les modèles font appel à des émissions négatives et de manière générale leur déploiement y est estimé en faible progrès en 2030, léger en 2050 et plus fort en 2100 : au total entre 5 et 20 Gt CO2 par an.
+Ces différences correspondent non seulement à des différences d’évaluation de l’avenir de ces technologies d’élimination du carbone, de leurs avantages et inconvénients, mais aussi de différents
+niveaux d’émissions résiduelles
+visées à la neutralité et au-delà, celles qu’on estime préférables de compenser.
+Et dans les scénarios +1,5°C du dernier rapport du GIEC ?
+Parmi les scénarios 1.5°C de l’AR6, la neutralité carbone correspond
+en moyenne
+à 11 Gt CO2 d’émissions négatives par an, seuls 5% des scénarios arrivent à moins de 5 Gt CO2.
+Réduire ce besoin nécessite des
+efforts importants
+sur les émissions résiduelles, par exemple
+réduire fortement la consommation de viande, ce qui libère aussi beaucoup d’espace
+.
+Comme autre scénario avec des émissions négatives réduites on peut noter
+celui de l’IEA
+(ici par rapport aux scénarios du rapport 1.5 du GIEC) :
+Les modèles peuvent inclure beaucoup d’émissions négatives s’ils sont optimistes sur leurs coûts futurs par rapport à ceux de décarbonation, ou
+s’ils utilisent des taux d’actualisation élevés
+(liés notamment à une croissance économique élevée) qui repoussent les efforts dans le futur.
+Ils ne prennent pas non plus en compte les
+risques spécifiques
+de dépasser des niveaux de réchauffement en espérant y revenir.
+Ainsi, trop compter sur les émissions négatives pose
+un risque de réchauffement allant jusqu’à +0,8°C
+.
+Qui décide et qui paye ?
+Deux logiques coexistent : celle des Etats et celle des entreprises.
+Aujourd’hui l’élimination du carbone rentre dans le cadre des
+objectifs et engagements climatiques des Etats
+, sans être détaillée pour tous.
+Les engagements à long terme
+couvrent environ 5 GtCO2 par an par les forêts et 1t pour les autres méthodes.
+Ainsi, il existe aujourd’hui un
+écart
+entre engagements des Etats et trajectoires compatibles avec l’Accord de Paris, comme
+pour les émissions
+. Il est de magnitude plus réduite, notamment si l’on compte peu sur les émissions négatives :
+Source :
+https://www.nature.com/articles/s41558-024-01984-6
+
+Néanmoins ces niveaux modestes
+touchent déjà les limites de la soutenabilité pour les forêts
+, les augmenter nécessitera d’autres technologies plus incertaines.
+Élimination du carbone et justice climatique
+Ces trajectoires et les impacts de l’élimination du carbone (qui dépendent de ressources et espaces limités, souvent dans d’autres pays que le financeur) posent des questions particulières de justice qui n’ont pas de réponse simple et trouveront leur dénouement dans les négociations de diplomatie climatique.
+Tous les pays ne doivent pas forcément être à l’équilibre, beaucoup de pays comptent sur la mise en œuvre d’émissions négatives à l’étranger, ce qui permet de repousser le problème
+dans l’espace (en plus du temps)
+. Ceci ouvre néanmoins des possibilités intéressantes, par exemple que les pays ayant dépassé leur “part juste” d’un budget 1,5°C
+le compensent à long terme
+et remboursent ainsi leur “
+dette climatique
+”.
+Enfin, il existe
+un débat sur les modélisations et scénarios
+, principalement produits dans les pays riches, qui ont tendance à prolonger les inégalités actuelles dans les trajectoires futures et auxquelles contribuent les émissions négatives, en faisant porter les risques sur les pays les plus fragiles.
+Qui des entreprises et de la gouvernance ?
+Pour les entreprises, l’élimination du carbone passe aujourd’hui principalement par des
+marchés volontaires de compensation carbone
+. Ceux-ci, concernant principalement les forêts, sont
+en perte de vitesse
+et ont été
+très sévèrement remis en question
+ces dernières années en raison du manque de fiabilité des projets impliqués et d’un principe ne garantissant pas que du carbone est réellement retiré ou des émissions réduites.
+Aujourd’hui
+l’ONU recommande
+aux entreprises de prioriser les réductions d’émissions et n’utiliser des crédits qu’en dernier recours et avec des garanties très élevées.
+Dans tous les cas, un marché volontaire n’a qu’un
+potentiel réduit
+et sera
+fondamentalement insuffisant
+pour répondre aux besoins. Il faudra compléter les
+mesures limitées
+qui soutiennent aujourd’hui l’élimination du carbone par des décisions plus ambitieuses de la part des Etats, par exemple :
+l’obligation de compensation par les entreprises,
+le financement par des taxes carbone,
+des subventions à la capture et l’élimination ou leur
+organisation directe par les pouvoir publics
+,
+l’inclusion dans les marchés carbones.
+Un travail important de mesure et de fiabilisation est aussi indispensable pour s’assurer que les projets d’élimination du carbone ont bien le bilan attendu et peuvent être financés en toute confiance.
+Il existe ainsi de nombreux travaux en cours notamment
+au GIEC
+, à
+la commission européenne
+et dans l’association
+sciencebasedtargets
+.
+L’élimination du carbone en France ?
+En attendant la prochaine Stratégie Nationale Bas Carbone,
+encore reportée
+, on trouve des objectifs chiffrés d’élimination du carbone dans
+la version de 2020
+:
+Source :
+I4CE
+Ainsi, les objectifs français reposent principalement sur les forêts,
+peut-être de manière trop optimiste
+.
+Le stockage géologique est limité à 15 Mt CO2 par an
+en raison des capacités limitées
+, dont 10 Mt de BECCS et 5 Mt de CCS qui capturent directement des émissions industrielles. Le Haut Conseil pour le Climat a donné
+un avis prudent sur cette stratégie
+, avertissant sur les nombreuses inconnues des technologies de CCS.
+Le ministère de l’économie a publié en juillet dernier
+un rapport sur les perspectives du CCUS en France
+, très orienté vers l’industrie. C’est aussi l’objectif des principaux financements des “
+grands projets de décarbonation industrielle
+”
+L’élimination du carbone aux dépens de la décarbonation ?
+Le rôle de l’élimination du carbone
+reste controversé
+.
+Pour l’instant elle reste
+très minoritaire dans les budgets financiers
+, notamment face à l’électricité bas carbone (de manière globale,
+dans certains cas elle a pu en prendre la place comme au Royaume-Uni qui vient d’annoncer 22 Md£ pour la CCS
+). Le problème reste l’insuffisance de ces investissements dans leur ensemble !
+Une excuse pour repousser les efforts de décarbonation ?
+Le risque principal
+de l’élimination du carbone consiste plutôt en son utilisation comme excuse pour repousser les efforts de décarbonation (“
+mitigation deterrence
+”). Elle peut favoriser des scénarios et objectifs moins ambitieux sur la réduction et éviter de poser des questions difficiles comme
+l’avenir de l’aviation
+si elle ne peut pas être compensée ou les
+actifs à hautes émissions qui devraient être échoués
+.
+Compter dessus en tant que solution technologique rend aussi encore plus nécessaire, en cas d’échec, le recours à des solutions technologiques encore plus incertaines comme le contrôle du rayonnement solaire.
+Quel est le poids de cet argument parmi
+toutes les autres raisons
+qui peuvent expliquer l’insuffisance des efforts climats ? L’industrie fossile semble
+avoir très bien compris
+l’intérêt de l’élimination du carbone, ou au moins de son existence théorique pour l’instant. Cela s’applique aussi très bien aux gouvernements et
+plusieurs
+
+chercheurs
+témoignent de cet effet dans la prise de décision.
+Il est pour l’instant difficile
+de mesurer plus clairement cet impact. Et on peut tout à fait proposer d’autres arguments échappatoires sans élimination, par exemple
+l’avion à hydrogène
+.
+On peut proposer un parallèle :
+la possibilité de s’adapter
+partiellement au réchauffement peut être utilisée comme une excuse pour réduire les ambitions de décarbonation. Cela n’empêche pas que l’adaptation reste une nécessité !
+De même pour l’élimination du carbone, elle est nécessaire … avec la nuance qu’on aimerait à la fois en avoir le moins possible besoin pour la neutralité à moyen terme, mais en avoir le plus possible pour refroidir à long terme. Elle nécessite néanmoins le bon cadre pour être vraiment bénéfique pour le climat et ne pas tomber dans tous les travers qui l’ont touchée jusqu’ici.
+Merci à Yann Robiou du Pont, Pierre Friedlingstein, Sylvain Delerce et Roland Séférian pour leur relecture et leurs contributions.
+
+
+
+Emmanuel Pont
+
+
+

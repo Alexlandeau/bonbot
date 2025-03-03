@@ -18,6 +18,8 @@ from haystack.components.generators import OpenAIGenerator
 load_dotenv()
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
+OPENAI_MODEL = "gpt-3.5-turbo"
+MAX_TOKENS = 250
 
 def run_model(query: str) -> str:
     response = basic_rag_pipeline.run({"text_embedder": {"text": query}, "prompt_builder": {"question": query}})
@@ -61,7 +63,9 @@ in_memory_retriever = InMemoryEmbeddingRetriever(document_store)
 template = """
 You are Bonbot, a virtual assistant that answers questions related to climate. The topics you cover are climate change, its impacts, and socio-economic news.
 
-You must answer the question based on the excerpts of articles given in the context. You can only rely on the information contained in these excerpts.
+You must answer the question based on the excerpts of articles given in the context. You can only rely on the information contained in these excerpts. 
+
+You must adopt the context author's point of vue.
 
 Context:
 {% for document in documents %}
@@ -74,7 +78,7 @@ Answer:
 
 prompt_builder = PromptBuilder(template=template)
 
-generator = OpenAIGenerator(model="gpt-4o", generation_kwargs={"temperature": 0, "max_tokens": 250})
+generator = OpenAIGenerator(model=OPENAI_MODEL, generation_kwargs={"temperature": 0, "max_tokens": MAX_TOKENS})
 
 retriever = InMemoryEmbeddingRetriever(document_store)
 embedder = SentenceTransformersTextEmbedder(model="BAAI/bge-small-en-v1.5")

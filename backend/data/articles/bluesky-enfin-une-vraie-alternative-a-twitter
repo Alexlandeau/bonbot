@@ -1,0 +1,239 @@
+
+
+Getting your
+Trinity Audio
+player ready...
+Bluesky est-il le réseau social qui pourra enfin remplacer Twitter (X) ?
+Depuis le rachat d’Elon Musk et l’élection de
+Donald Trump à la présidence des Etats-Unis
+, les utilisateurs de Twitter cherchent à fuir la plateforme et trouver un nouvel eldorado. Bonne nouvelle :  des millions de personnes s’inscrivent sur ce qui semble l’alternative toute choisie : Bluesky.
+Sommaire
+
+Toggle
+L’origine de Bluesky
+A qui appartient Bluesky ?
+Comment fonctionne Bluesky ?
+Pourquoi Bluesky est différent de Twitter, Mastodon et Threads
+Bluesky, l’aggrégateur de contenu
+Pourquoi Bluesky est-il une bonne alternative à Twitter ?
+Ce qui manque à ce jour chez Bluesky
+Essayez Bluesky !
+L’origine de Bluesky
+Bluesky est une alternative à Twitter/X, initiée par son cofondateur et PDG Jack Dorsey. L’objectif : créer un protocole de communication ouvert qui dépasse Twitter. Nous reviendrons sur ce que cela veut dire, car c’est important.
+Initialement un projet de recherche interne à Twitter, le projet prend son indépendance en 2021. La même année, Jay Graber devient la PDG de la plateforme sociale. Après l’acquisition de Twitter par Elon Musk,  Twitter a rompu tous les liens juridiques et financiers avec Bluesky Social.
+En février 2023 et pendant un an, il n’était possible de rejoindre Bluesky que par invitation. C’est aujourd’hui ouvert à tout le monde.
+La goutte d’eau Trump
+Le projet gagne une visibilité surtout grâce au rachat de Twitter par Elon Musk. Il avait alors viré les équipes de modération et débloqué des comptes climatosceptiques, racistes et misogynes au nom de la liberté d’expression.
+En novembre 2024, alors que Trump gagne les élections présidentielles états-uniennes et nomme Elon Musk ministre, une migration massive a lieu depuis Twitter vers Bluesky.
+Bluesky atteint le 16 novembre un rythme de plus de 1000 nouveaux comptes par minute, soit plus d’1 million de nouveaux utilisateurs par jour.
+A qui appartient Bluesky ?
+Entreprise à mission depuis son origine, Bluesky a annoncé le 24 octobre 2024 une levée de fonds de 15 millions de dollars
+dirigé par Blockchain Capital avec la participation d’Alumni Ventures, True Ventures, SevenX, Amir Shevat de Darkmode, le co-créateur de Kubernetes Joe Beda, et d’autres
+.
+Cela n’a pas manqué de provoquer de nombreuses inquiétudes, notamment dans la communauté Mastodon et pour les personnes qui souhaitaient essayer Bluesky.
+Le modèle économique sera donc à surveiller. Si cela reste gratuit, il faudra bien gagner de l’argent pour équilibrer les comptes. L’équipe Bluesky
+a entre autres annoncé
+la mise en place prochaine de comptes payants.
+Paul Frazee
+, développeur principal chez Bluesky, a par ailleurs bien conscience des risques que cela peut engendrer :
+La façon dont Twitter a géré les abonnements était en fait un modèle de la façon dont Bluesky ne devrait pas les gérer
+Les fonctionnalités « Pay to win » comme obtenir de la visibilité ou avoir un bluecheck parce que vous avez payé un abonnement sont tout simplement mauvaises et ruinent le réseau pour tout le mond
+e.
+Comment fonctionne Bluesky ?
+Si vous utilisiez Twitter, l’inscription sur Bluesky sera simple et votre expérience sur le réseau sera familière.
+Mais sous ses apparences de clone de Twitter, Bluesky est techniquement très différent, fruit d’un travail important pour lui éviter de subir une fin aussi dramatique.
+Bluesky est le nom de l’entreprise à mission qui possède et gère le site au papillon bleu
+Bluesky
+, mais ce site est basé sur le protocole AT. C’est un protocole ouvert, qui permet à tout autre acteur (entreprise, association, administration) de participer pleinement au réseau sans être soumis au contrôle et aux redevances de la société mère.
+Vous avez dit protocole ?
+Le concept de protocole standard peut paraitre technique, mais nous en utilisons tous plusieurs par jour. Ainsi, Google.com, le site géré par l’entreprise du même nom est basé sur le Web, un ensemble de protocoles inventé par le chercheur Tim Berners Lee à Genève en 1989.
+En pratique, cela vous permet d’accéder aux articles de Bon Pote en tapant “Bon Pote biodiversité” sur Google.com, mais les textes et les images du journal Bon Pote ne sont pas hébergés sur Google pour autant : ils sont seulement mis à disposition de Google via le protocole sous-jacent, le Web !
+La même recherche sur un concurrent de Google donnera d’autres résultats, mais vous retrouverez
+in fine
+le même contenu du Web, Qwant ayant le même accès gratuit et standardisé au Web que Google.
+Qu’apporte le protocole de Bluesky par rapport au Web ? De nombreuses choses : des comptes utilisateur et la capacité pour des applications d’écrire et de lire dans ces comptes utilisateurs avec les bonnes permissions, la notion de souscription à des flux (Bluesky reçoit l’information quand google envoie ses robots l’explorer de façon hasardeuse). Le protocole AT est très complémentaire au Web.
+Tout le contraire de Twitter…
+Twitter est quant à lui ce que les anglais appellent un “walled garden”, un jardin clos : l’entreprise a le contrôle total sur son contenu, et d’autres médias ne peuvent pas l’exploiter sans payer des sommes qui sont devenues depuis le rachat par Musk,
+invraisemblables
+.
+L’analogie a ses limites, car Google est né bien après l’invention du Web, contrairement à Bluesky qui a créé le protocole AT pour ses propres besoins, espérant en faire un standard qui sera le soubassement d’autres projets indépendants.
+Pourtant déjà aujourd’hui, des développeurs construisent sur le protocole AT des interfaces alternatives (par exemple pour les pros avec
+DeckBlue
+), des
+blogs
+, des sites d’inscription à des événements ou des clones du forum en ligne Reddit. Le protocole permet aussi à n’importe quel blog ou média d’utiliser Bluesky comme système de commentaires en-dessous d’un article.
+Cela évite ainsi aux internautes de créer toujours davantage de comptes utilisateur : leur compte Bluesky suffit.
+Pourquoi Bluesky est différent de Twitter, Mastodon et Threads
+Vous l’aurez compris, Twitter est un réseau centralisé.
+Aux côtés de Bluesky, un autre projet européen nommé Mastodon a été mis en lumière par le rachat de Twitter par Musk.
+Mastodon, la décentralisation totale
+Pour l’expliquer simplement, Mastodon, ce sont des milliers de Twitter qui discutent entre eux. À vous d’en choisir un.
+Comme Bluesky, qu’il précède, Mastodon est basé sur un protocole standard :
+ActivityPub
+. Mastodon est simple à comprendre pour tous ceux qui ont déjà utilisé une adresse mail.
+Pour écrire un courriel, vous devez choisir votre serveur. Cela peut être Gmail, Orange, Laposte, Yahoo, ou de petits hébergeurs indépendants.
+
+Tout comme Gmail domine le paysage des mels,
+mastodon.social
+est le plus gros serveur Mastodon, détenu par Mastodon GmbH, l’entreprise qui développe le réseau. En configurant un client mail, vous avez peut-être déjà vu les termes IMAP et SMTP : ce sont les protocoles ouverts qui assurent que votre mail envoyé depuis
+alice@gmail.com
+sera bien reçu par
+bob@orange.fr
+et vice versa.
+Alice verra la liste de tous les mails qui lui ont été envoyés quelle que soit l’instance de départ. Pour Mastodon, c’est la même chose.
+Threads, l’instance Mastodon d’un GAFAM
+Meta, la société mère de Facebook et Instagram, a également voulu tirer son épingle du jeu en lançant Threads, son clone de Twitter.
+Si Threads n’est pas à proprement parler une instance de Mastodon, le réseau se conforme pourtant au protocole sous-jacent de Mastodon, nommé
+ActivityPub
+.
+Grâce à l’immense audience d’Instagram et la création de compte facilitée dès lors que l’on a un compte insta, Threads a rapidement atteint la centaine de millions d’utilisateurs… mais sans les convaincre,
+la moitié ayant rapidement abandonné leur compte
+.
+Threads reste la propriété du F de GAFAM : le réseau a été considéré comme
+le pire
+en termes de collecte des données personnelles ; l’arrivée des publicités a déjà été annoncée par Mark Zurkerberg.
+En conséquence, Threads a été bloqué par certaines instances, car les instances Mastodon peuvent se bloquer entre elles.
+Rejoignez les 40000 abonné(e)s à notre newsletter
+Chaque semaine, nous filtrons le superflu pour vous offrir l’essentiel, fiable et sourcé
+
+
+
+Je m'abonne gratuitement
+
+
+Bluesky, l’aggrégateur de contenu
+Bluesky a un modèle subtilement différent. Le serveur central va aller butiner tout ce que les utilisateurs du réseau ont publié via son protocole. Ils ne sont pas regroupés dans des instances comme le modèle Mastodon, mais tous présents sur un réseau planétaire.
+Décentralisation des données utilisateur
+Contrairement à Twitter, si cela me semble important je peux à tout moment changer l’endroit (le serveur) où sont stockées mes données (mes messages, mes images et vidéos), tout en restant présent sur le réseau global Bluesky.
+Ces entrepôts de données sont nommés “Personal Data Server” et sont le fondement de la décentralisation de Bluesky. N’importe quel curieux peut créer un PDS pour
+4 € / mois
+à même de stocker les données de milliers d’utilisateurs. Des milliers de PDS existent déjà, indépendants de l’entreprise Bluesky.
+Il est même possible d’envisager un service proposé par l’Union Européenne qui nous permettrait d’héberger nos données sur notre continent. L’UE pourrait aller encore plus loin dans la résilience du réseau et lancer un clone de l’agrégateur Bluesky, totalement indépendant du premier site bsky.app, qui exposerait l’intégralité du réseau social.
+Le Conseil National du Numérique
+évoque également l’importance de la portabilité des données et d’un sursaut numérique Européen.
+En gardant une identité globale
+Malgré cette décentralisation des données, le réseau Bluesky n’est pas communautaire.
+Changer de alice
+@bsky.app
+vers
+alice@lemonde.fr
+(qui certifie qu’Alice est membre de la rédaction du Monde), puis quelques années ensuite à Alice@liberation.fr est une formalité. L’identité sous-jacente reste la même. Il n’y a pas de migration à faire, vous ne dépendez pas de la bonne volonté de l’ancienne instance pour migrer, contrairement à Mastodon.
+Sur Mastodon, changer d’instance c’est
+perdre tous ses messages
+, qui resteront bloqués sur l’ancienne instance et votre ancien nom d’utilisateur. Le choix initial d’instance ne doit donc pas être pris à la légère.
+Comme
+le dit la PDG de Bluesky
+, notre profil sur les réseaux sociaux devrait être aussi portable que notre numéro de téléphone quand on passe d’un opérateur à un autre.
+Pour conclure :
+Twitter/X est une vision globaliste (tous sur la même instance, quelle que soit notre langue, nos avis politiques) ultra-centralisée (entièrement possédée par une entreprise).
+Bluesky est une vision globaliste mais décentralisée.
+Mastodon est une vision décentralisée communautaire et fédéraliste. Threads c’est un Twitter qui s’est incrusté dans le monde Mastodon.
+Pourquoi Bluesky est-il une bonne alternative à Twitter ?
+Deux facteurs de succès principaux semblent se distinguer.
+Proposer une alternative à la “merdification” de Twitter
+De nombreux utilisateurs qui découvrent Bluesky expriment leur impression d’être accueillis sur le “Twitter d’avant”, avant la prise de contrôle par Musk.
+Cette dernière fut en effet marquée par plusieurs changements d’interface qui s’inscrivent pour beaucoup dans le schéma de “
+merdification
+” classique des grandes entreprises numériques, auquel s’est ajoutée l’ambition politique ouvertement pro-Trump de Musk et qui a lancé l’extrême-droitisation du contenu de la plateforme.
+Les opinions politiques du milliardaire l’auraient même conduit à stimuler artificiellement l’engagement de son propre compte et des comptes républicains sur sa propre plateforme, d’après
+une étude
+de l’université de Queensland en Australie.
+Retrouver un réseau plus sain
+On peut citer notamment la
+censure des tweets
+faisant mention des réseaux concurrents, dont Mastodon, la réactivation de comptes qui violaient les conditions d’utilisation de Twitter, et la
+censure de journalistes
+politiquement opposés à Musk.
+Enfin, la
+mise en avant artificielle des comptes
+premium payants
+, a provoqué une perte d’incitation à la création de contenu pour les autres utilisateurs, ceux qui n’adhéraient plus à la vision de l’entreprise ou ne voulaient simplement pas payer 120 € / an pour utiliser le réseau.
+L’absence de publicité sur Bluesky,
+annoncée comme pérenne
+pour lui préférer un modèle d’abonnement premium sans favoritisme, est aussi un bol d’air pour les utilisateurs.
+Les innovations Bluesky
+les
+“kits de démarrage”
+(starter packs) permettent en un seul clic de s’abonner à de nombreux comptes sur un thème qui vous plait, et ainsi recréer plus rapidement votre sphère informationnelle.
+Les listes
+“fils d’actu”
+permettent d’ajouter à sa page d’accueil des perspectives différentes sur l’actualité et ainsi éviter la dictature d’un unique algorithme de tri du contenu. Une fonctionnalité appréciée que Threads compte bien
+reprendre
+.
+La possibilité de
+“se sortir”
+d’une citation de tweet hostile pour éviter le harcèlement
+Des
+“labels”
+communautaires pour classifier et modérer automatiquement du contenu, par exemple pour du contenu jugé indésirable (à caractère sexuel par exemple, ou trop porté sur les cryptomonnaies).
+PS : des listes de blocage existent pour bloquer de nombreux utilisateurs d’un coup. Pour bloquer des comptes climatosceptiques harceleurs, par exemple (par exemple !)
+Éviter les dangers de la centralisation sans sacrifier la simplicité
+Mastodon et Bluesky partent du même constat : un média social centralisé n’est aucunement résilient au rachat du réseau par un acteur toxique.
+La clef du succès actuel de Bluesky, c’est un savant compromis entre la centralisation excessive de Twitter/X et la décentralisation totale mais complexe de Mastodon, que seuls les plus geeks et les plus motivés ont accepté de surmonter à ce jour.
+Bluesky répond à l’usage principal qui a fait le succès initial de Twitter : un réseau collaboratif unifié où cohabitent célébrités, politiciens, journalistes, influenceurs thématiques… créant des sources primaires d’information relayées par les médias plus classiques.
+La donne changera quand les politiques ET journalistes commenceront à citer Bluesky comme source, et plus uniquement Twitter. 
+Avec Musk aux commandes sur X, c'est le moment de créer ce changement !
+— Bon Pote (
+@bonpote.bsky.social
+)
+16 novembre 2024 à 17:46
+
+
+Les grands médias français arrivent sur Bluesky !
+Notons que de grands médias français ont déjà bien engagé leur présence sur Bluesky.
+Libération
+,
+Le Monde
+,
+Médiapart
+, l’
+AFP
+ainsi qu’une myriade de comptes tels que des
+vulgarisateurs scientifiques
+.
+Observez le pseudo du profil
+BonPote
+, c’est son nom de domaine. Plutôt que de se faire certifier avec un opaque système de coches bleues, un député pourra demander à l’Assemblée nationale de le certifier en un clic avec prenom.nom.assemblee-nationale.fr.
+La communauté anglophone est particulièrement présente sur Bluesky pour l’instant, le
+Guardian
+vient d’annoncer qu’il
+ne posterait plus rien sur X
+. Au Brésil, des millions d’utilisateurs avaient rejoint Bluesky en août à la suite du bras de fer entre un juge et Musk.
+Ce qui manque à ce jour chez Bluesky
+Bluesky remplit déjà aujourd’hui la plus grande partie des fonctionnalités qui ont fait le succès de X. L’équipe de développeurs communique avec humour sur son propre réseau et annonce fréquemment de nouvelles fonctionnalités, comme la fonctionnalité vidéo sortie cet été.
+Les mots-dièses en tendance
+Avantage : savoir ce qu’il se passe hors de la bulle que l’on se crée inévitablement via nos abonnements. Reproduire l’un des plus gros succès de Twitter : l’impression d’appartenir à des communautés mondiales et nationales en étant au courant, souvent en direct, des événements et débats de société en cours.
+Inconvénient : donner une telle visibilité à des mots-dièse crée une incitation énorme pour les États à tenter de les manipuler via des créations artificielles et coordonnées de contenu. Voir l’article
+“Le bruit des bots”
+.
+Les skeets favoris
+Les messages postés sur Bluesky, que certains appellent “skeets”, ne peuvent pas encore être mis en favoris pour les retrouver par la suite. C’est une
+fonctionnalité annoncée
+.
+La gestion des faux comptes
+Bluesky commence tout juste à avoir l’importance suffisante pour être la cible d’attaques massives et sophistiquées de groupuscules privés et des États. Ne doutons pas qu’elle est déjà en route.
+Comment l’entreprise va-t-elle gérer cette problématique et faire mieux que X et son avalanche de “bots” à la suite des licenciements massifs engagés par Elon Musk ?
+Comment Bluesky doit éviter de devenir Twitter
+Pour garantir sa résilience face à ses propres actionnaires, Bluesky
+doit
+faire vivre son protocole AT au-delà du seul site bsky.app, et ainsi passer de garanties théoriques de construction du protocole, à une décentralisation résiliente en pratique.
+Des garanties sur la pérennité
+Du côté de Mastodon, les mêmes questions de financement se posent : les instances étant gratuites, sans moyen de paiement mis à disposition des propriétaires, ces derniers doivent bénévolement payer des factures importantes et les compenser tant bien que mal par des appels aux dons.
+Notons finalement que la pérennité de X n’a quant à elle jamais été aussi incertaine. La migration massive actuelle depuis X dont celles d’organes de presse importants, la fuite des annonceurs, la perte de valorisation de l’entreprise depuis son rachat à 44 milliards par Musk, semble augurer un statut de pseudo média de propagande d’État, dont la pérennité financière serait alors directement liée à sa bonne entente avec la nouvelle présidence d’extrême droite des États-Unis.
+Essayez Bluesky !
+Testez Bluesky, c’est simple et gratuit. La communauté francophone est en croissance fulgurante et propose déjà de nombreux contenus intéressants. Un
+outil
+permet même de trouver vos abonnements X sur Bluesky.
+L’outil d’écriture de “threads”, ces fils de messages qui ont fait le succès de la vulgarisation scientifique et environnementale sur Twitter, vient tout juste d’être mis en ligne, à nous d’en faire bon usage !
+Comme tous les réseaux sociaux, son avenir reste incertain mais l’effort pour empêcher son rachat par un milliardaire est réel.
+Vous pouvez suivre Bon Pote sur Bluesky
+en cliquant ici
+
+
+
+Maël Thomas
+
+Thomas Wagner
+
+
+

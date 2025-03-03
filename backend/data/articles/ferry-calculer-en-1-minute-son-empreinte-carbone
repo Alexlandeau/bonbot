@@ -38,6 +38,14 @@ La durée de votre traversée (la vitesse du ferry)
 . La vitesse du bateau est une information capitale pour le calcul de l’empreinte, car elle fait évoluer la consommation au cube. Plus un navire va vite, plus il génère de grosses vagues et consomme de l’énergie pour cela. NB : en réservant votre ferry, vous avez parfois le choix entre des bateaux de jour plus rapides, ou de nuit plus lents.
 L’un des cas les plus émetteurs de CO2 : ferry avec cabine luxe
 Corsica-ferries
+Rejoignez les 40000 abonné(e)s à notre newsletter
+Chaque semaine, nous filtrons le superflu pour vous offrir l’essentiel, fiable et sourcé
+
+
+
+Je m'abonne gratuitement
+
+
 Quelles sont les limites du calculateur ?
 L’objectif de ce calculateur est d’avoir un ordre de grandeur. Il est difficile d’avoir un résultat parfait à la virgule près, notamment à cause de ces limites. Comme pour tout calcul d’empreinte carbone, il faut faire des choix dans la méthodologie.
 Savoir combien un ferry émet de gaz à effet de serre n’est pas le plus difficile. Pour l’ordre de grandeur, il suffit de multiplier sa consommation de fioul par le ou les facteurs d’émissions CO2eq du fioul et autres carburants utilisés. La difficulté réside dans l’attribution : aux passagers à pied, avec voiture, avec loisirs et accès au lounge VIP, au transport de marchandises, au remplissage du bateau, etc.
@@ -84,7 +92,6 @@ ce simulateur d’un trajet en avion en 3 clics
 . L’idéal serait d’avoir un simulateur qui fasse la comparaison directement, mais pour cela, il faudrait probablement un financement pour le développement. Voici d’autres liens utiles :
 C’est pas sorcier -IL ÉTAIT UN … très gros paquebot !
 Towards Least-CO2 Ferry Routes in the Adriatic Sea
-Theoretical Technical Efficiency Indexes
 Eco Island Ferry – Comparative LCA of island ferry with carbon fibre composite based and steel based structures
 Deterministic and stochastic carbon footprint of intermodal ferry and truck freight transport across Scandinavian routes
 Vue du ferry, port de Marseille
@@ -92,5 +99,6 @@ Vue du ferry, port de Marseille
 
 
 Thomas Wagner
+
 
 
