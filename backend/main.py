@@ -45,10 +45,13 @@ async def complete(request: ChatRequest) -> ChatResponse:
         logging.info(f"Returned answer: {answer}")
         return {
             "response": {
-                "content": answer,
+                "content": answer.get("content"),
                 "role": "assistant",
             },
-            "metadata": dict(),
+            "metadata": {
+                "sources": answer.get("sources"),
+                "display_sources": True,
+            },
         }
     except Exception as e:
         logging.error(f"Error: {e}")

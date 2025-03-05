@@ -7,10 +7,14 @@ class Response(BaseModel):
     role: str
 
 
-# class Metadata(BaseModel):
-#     products: List[Any]
-#     topic: str
-#     offers: List[Any]
+class Source(BaseModel):
+    url: str
+    chunk: str
+
+
+class Metadata(BaseModel):
+    sources: List[Source]
+    display_sources: bool #TODO: remove if needed all the time
 
 
 class ChatResponse(BaseModel):
