@@ -52,12 +52,11 @@ const DemoChatMessage: FC<DemoChatMessageProps> = ({
           </span>
           {chatMessage.recos.map((reco, i) => {
             return (
-              <div className="!flex gap-4 justify-between" key={i}>
-                <span>{reco.name}</span>
-                {/* Add the next span label to the button */}
-                <button className="flex-none w-[200px]">
-                  {sourcePlaceholder + " " + reco.source.toLowerCase()}
-                </button>
+              <div className="!flex flex-col gap-4 justify-between" key={i}>
+                {/* <span>{reco.url}</span> */}
+                <a className="underline text-gray-50 hover:text-gray-300 visited:text-purple-600" href={reco.url} target="_blank">{reco.url}</a>
+                {/* TODO: add a debug shortcut to display retrieved chunks */}
+                {false ? (<span>{sourcePlaceholder + " " + reco.text.toLowerCase()}</span>): undefined}
               </div>
             );
           })}

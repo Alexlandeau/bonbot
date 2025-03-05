@@ -5,14 +5,21 @@ from dotenv import load_dotenv
 from haystack import Document
 from haystack.document_stores.in_memory import InMemoryDocumentStore
 from haystack.components.writers import DocumentWriter
-from haystack.components.embedders import SentenceTransformersDocumentEmbedder, SentenceTransformersTextEmbedder
+from haystack.components.embedders import (
+    SentenceTransformersDocumentEmbedder,
+    SentenceTransformersTextEmbedder,
+)
 from haystack.components.preprocessors.document_splitter import DocumentSplitter
 from haystack import Pipeline
 from haystack.utils import ComponentDevice
-from haystack.components.retrievers.in_memory import InMemoryBM25Retriever, InMemoryEmbeddingRetriever
+from haystack.components.retrievers.in_memory import (
+    InMemoryBM25Retriever,
+    InMemoryEmbeddingRetriever,
+)
 from haystack.components.joiners import DocumentJoiner
 from haystack.components.rankers import TransformersSimilarityRanker
 from haystack.components.builders import PromptBuilder
+from haystack.components.builders.answer_builder import AnswerBuilder
 from haystack.components.generators import OpenAIGenerator
 
 load_dotenv()
@@ -21,9 +28,26 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 OPENAI_MODEL = "gpt-3.5-turbo"
 MAX_TOKENS = 250
 
-def run_model(query: str) -> str:
-    response = basic_rag_pipeline.run({"text_embedder": {"text": query}, "prompt_builder": {"question": query}})
-    return response["llm"]["replies"][0]
+
+def run_model(query: str) -> dict:
+    response = basic_rag_pipeline.run(
+        {
+            "text_embedder": {"text": query},
+            "prompt_builder": {"question": query},
+            "answer_builder": {"query": query},
+        }
+    )
+    answer = response.get("answer_builder").get("answers")[0]
+    return {
+        "content": answer.data,
+        "sources": [
+            {
+                "url": f'https://bonpote.com/{document.meta.get("title")}',
+                "chunk": document.content,
+            }
+            for document in answer.documents[:3]
+        ],
+    }
 
 
 document_store = InMemoryDocumentStore()
@@ -40,9 +64,13 @@ else:
         path = os.path.join(ARTICLES_DIR, title)
         with open(path, "r") as file:
             content = file.read()
-            docs.append(Document(content=content, meta={"title": title, "pmid": uuid.uuid4()}))
+            docs.append(
+                Document(content=content, meta={"title": title, "pmid": uuid.uuid4()})
+            )
 
-    document_splitter = DocumentSplitter(split_by="word", split_length=512, split_overlap=32)
+    document_splitter = DocumentSplitter(
+        split_by="word", split_length=512, split_overlap=32
+    )
     document_embedder = SentenceTransformersDocumentEmbedder(
         model="BAAI/bge-small-en-v1.5"
     )
@@ -78,7 +106,9 @@ Answer:
 
 prompt_builder = PromptBuilder(template=template)
 
-generator = OpenAIGenerator(model=OPENAI_MODEL, generation_kwargs={"temperature": 0, "max_tokens": MAX_TOKENS})
+generator = OpenAIGenerator(
+    model=OPENAI_MODEL, generation_kwargs={"temperature": 0, "max_tokens": MAX_TOKENS}
+)
 
 retriever = InMemoryEmbeddingRetriever(document_store)
 embedder = SentenceTransformersTextEmbedder(model="BAAI/bge-small-en-v1.5")
@@ -90,8 +120,12 @@ basic_rag_pipeline.add_component("text_embedder", embedder)
 basic_rag_pipeline.add_component("retriever", retriever)
 basic_rag_pipeline.add_component("prompt_builder", prompt_builder)
 basic_rag_pipeline.add_component("llm", generator)
+basic_rag_pipeline.add_component("answer_builder", AnswerBuilder())
 
 # Now, connect the components to each other
 basic_rag_pipeline.connect("text_embedder.embedding", "retriever.query_embedding")
 basic_rag_pipeline.connect("retriever", "prompt_builder.documents")
 basic_rag_pipeline.connect("prompt_builder", "llm")
+basic_rag_pipeline.connect("llm.replies", "answer_builder.replies")
+basic_rag_pipeline.connect("llm.meta", "answer_builder.meta")
+basic_rag_pipeline.connect("retriever", "answer_builder.documents")

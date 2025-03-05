@@ -18,9 +18,8 @@ interface ChatResponse {
     role: string;
   };
   metadata?: {
-    products: any[];
-    topic: string;
-    offers: any[];
+    sources: any[];
+    display_sources: boolean;
   };
 }
 
@@ -31,8 +30,8 @@ enum ChatMessageType {
 }
 
 type ChatMessageRecommendation = {
-  name: string;
-  source: string;
+  url: string;
+  text: string;
 };
 
 type ChatMessage = {
@@ -102,11 +101,11 @@ const DemoChat: FC<DemoChatProps> = ({
           sender: botUser,
           messageType: ChatMessageType.ANSWER,
           recos:
-            answer.metadata?.topic === "recommendation" &&
-            answer.metadata.offers.length > 0
-              ? answer.metadata.offers.map((offer) => ({
-                  name: offer.libelle_pdt,
-                  source: offer.offer_type,
+            answer.metadata?.display_sources &&
+            answer.metadata.sources.length > 0
+              ? answer.metadata.sources.map((source) => ({
+                  url: source.url,
+                  text: source.chunk,
                 }))
               : undefined,
         };

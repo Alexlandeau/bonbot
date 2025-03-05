@@ -42,7 +42,7 @@ const uiSettings: UiSettings = {
   chat: {
     endpoint: "bonbot",
     placeholder: "Une question sur le changement climatique ? Discutons solutions !",
-    sourcePlaceholder: "",
+    sourcePlaceholder: "Extrait:",
     senderUser: {
       name: "You",
       pic: userPicture,
