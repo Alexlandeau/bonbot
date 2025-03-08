@@ -2,6 +2,7 @@
 
 - Python 3.10
 - An OpenAI api key
+- A Redis server installed (for caching) and running on localhost:6379
 
 # Installation
 
