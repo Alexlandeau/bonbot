@@ -65,7 +65,7 @@ else:
         with open(path, "r") as file:
             content = file.read()
             docs.append(
-                Document(content=content, meta={"title": title, "pmid": uuid.uuid4()})
+                Document(content=content, meta={"title": title, "pmid": uuid.uuid4().urn})
             )
 
     document_splitter = DocumentSplitter(
@@ -85,6 +85,8 @@ else:
     indexing_pipeline.connect("document_embedder", "document_writer")
 
     indexing_pipeline.run({"document_splitter": {"documents": docs}})
+
+    document_store.save_to_disk("data/document_store")
 
 in_memory_retriever = InMemoryEmbeddingRetriever(document_store)
 
